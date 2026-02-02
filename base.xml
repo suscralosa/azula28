@@ -202,6 +202,7 @@
         <title>[COLOR white][B] 3.6.1.1 - Europa Europa TV [/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1675958522494742535/MuaAuKK3_400x400.jpg</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278399.m3u8</link>
+        <link>http://45.5.117.57:8999/play/a01q/index.m3u8</link>
     </item>
 
     <item>
@@ -1293,6 +1294,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
