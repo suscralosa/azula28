@@ -19,7 +19,13 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.1.1 - SONY MOVIESS [/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.1.1 - SONY CINE [/B][/COLOR]MX</title>
+        <thumbnail>https://cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png</thumbnail>
+        <link>https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8</link>
+    </item>
+
+    <item>
+        <title>[COLOR white][B] 3.1.2 - SONY MOVIES [/B][/COLOR]MX</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278471.m3u8</link>
         <link>http://45.5.119.43:4000/play/a03s/index.m3u8</link>
@@ -1275,6 +1281,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
