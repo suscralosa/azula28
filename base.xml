@@ -313,7 +313,6 @@
         <title>[COLOR white][B] 3.14.1 - FX [/B][/COLOR]</title>
         <thumbnail>http://images.mi.tv/channels/mx_fx_m.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278426.m3u8</link>
-        <link>http://200.115.96.66:4000/play/a035/index.m3u8</link>
         <link>http://200.115.96.66:4000/play/a0he/index.m3u8</link>
         link>https://streamer1.nexgen.bz/FX/tracks-v1a1/mono.ts.m3u8</link>
     </item>
@@ -1282,6 +1281,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
