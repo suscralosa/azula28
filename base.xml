@@ -51,6 +51,7 @@
     <item>
         <title>[COLOR white][B] 3.4 - Discovery Science[/B][/COLOR]</title>
         <thumbnail>https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png</thumbnail>
+        <link>http://181.114.57.246:4000/play/xDmVBDWKHJDg/index.m3u8</link>
         <link>http://181.114.57.246:4000/play/8EVmhNhJHQUwrNKA/index.m3u8</link>
         link>https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.ts.m3u8</link>
     </item>
@@ -1265,4 +1266,5 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
