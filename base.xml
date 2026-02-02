@@ -21,7 +21,7 @@
 
     <item>
         <title>[COLOR white][B] 3.1.1 - SONY CINE [/B][/COLOR]MX</title>
-        <thumbnail>https://cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png</thumbnail>
+        <thumbnail>https://cinesony.com/sites/cinesony/themes/custom/cinesony/dist/img/cinesony.png</thumbnail>
         <link>https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8</link>
     </item>
 
@@ -557,13 +557,19 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.34 - C4 en Alerta[/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.34 - Claro Canal[/B][/COLOR]</title>
+        <thumbnail>https://play-lh.googleusercontent.com/OELT4_IAPuL868h2Fe2RNIIo1uKxYOEBYwuMT2cK4slSrqYAJdSuuoJUXBu17DgFeA</thumbnail>
+        <link>http://45.5.117.57:8999/play/a05o/index.m3u8</link>
+    </item>
+
+    <item>
+        <title>[COLOR white][B] 3.35 - C4 en Alerta[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTujT-3yIrulth0TRNeixoRo0LbKdJOJKPt9iejvK6SbzqfbbPg</thumbnail>
         <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.31 - Teleclásica En Vivo[/B][/COLOR] México - Hermosillo Sonora (REPEAT)</title>
+        <title>[COLOR white][B] 3.36 - Teleclásica En Vivo[/B][/COLOR] México - Hermosillo Sonora (REPEAT)</title>
         <thumbnail>https://imgcdn.stablediffusionweb.com/2024/9/21/8f3716c2-8c71-4a44-ba7e-81f2b9d5c349.jpg</thumbnail>
         <link>https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8</link>
     </item>
@@ -1281,6 +1287,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
