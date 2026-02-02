@@ -117,6 +117,12 @@
     </item>
 
     <item>
+        <title>[COLOR white][B] 3.4.7 - DHE [/B][/COLOR]AR</title>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiZa2r7ceDgbfKX96zlufWZmZAUXg-diQUA&s</thumbnail>
+        <link>http://45.5.117.57:8999/play/a01s/index.m3u8</link>
+    </item>
+
+    <item>
         <title>[COLOR white][B] 3.5 - HBO [/B][/COLOR]MX</title>
         <thumbnail>https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8</link>
@@ -1287,6 +1293,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
