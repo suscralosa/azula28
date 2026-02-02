@@ -104,7 +104,7 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.4.5 - El Garage TV[/B][/COLOR]AR</title>
+        <title>[COLOR white][B] 3.4.5 - El Garage TV[/B][/COLOR]</title>
         <thumbnail>https://elgarage.com/wp-content/uploads/2021/04/elgaragetv_WEB.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278397.m3u8</link>
     </item>
@@ -117,7 +117,7 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.4.7 - DHE [/B][/COLOR]AR</title>
+        <title>[COLOR white][B] 3.4.7 - DHE [/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiZa2r7ceDgbfKX96zlufWZmZAUXg-diQUA&s</thumbnail>
         <link>http://45.5.117.57:8999/play/a01s/index.m3u8</link>
     </item>
@@ -1293,6 +1293,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
