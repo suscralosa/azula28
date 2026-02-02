@@ -121,6 +121,7 @@
         <thumbnail>https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278508.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0l6/index.m3u8</link>
+        <link>http://200.92.227.238:8000/play/a0mu/index.m3u8</link>
         link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.ts.m3u8</link>
     </item>
 
@@ -1265,6 +1266,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
