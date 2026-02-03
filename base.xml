@@ -373,28 +373,27 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.17 - Cine Latino [/B][/COLOR]</title>
-        <thumbnail>https://pbs.twimg.com/profile_images/909103084600688640/PF8YDHRA_400x400.jpg</thumbnail>
-        <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8</link>
-    </item>
-
-    <item>
-        <title>[COLOR white][B] 3.17.1 - Comedy Central [/B][/COLOR][COLOR green] HQ[/COLOR] MX</title>
+        <title>[COLOR white][B] 3.17 - Comedy Central [/B][/COLOR][COLOR green] HQ[/COLOR] MX</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278410.m3u8</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.17.2 - Distrito Comedia [/B][/COLOR][COLOR green] HQ[/COLOR] MX</title>
+        <title>[COLOR white][B] 3.17.1 - Distrito Comedia [/B][/COLOR][COLOR green] HQ[/COLOR] MX</title>
         <thumbnail>https://cms.televisallega.com/media/mediafields/Plataformas/Distrito-comedia.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278416.m3u8</link>
+    </item>
+	
+    <item>
+        <title>[COLOR white][B] 3.17.2 - De Película PLUS [/B][/COLOR]</title>
+        <thumbnail>https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png</thumbnail>
+        <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.17.3 - De Película (México)[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278456.m3u8</link>
-        <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8</link>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278458.m3u8</link>
         link>https://streamer1.nexgen.bz/DE_PELICULA/tracks-v1a1/mono.ts.m3u8</link>
     </item>
@@ -1294,6 +1293,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
