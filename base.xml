@@ -152,6 +152,7 @@
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png</thumbnail>
         <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8</link>
         <link>http://45.5.119.43:4000/play/a00c/index.m3u</link>
+        <link>http://45.5.117.57:8999/play/a05r/index.m3u8</link>
     </item>
 
     <item>
@@ -1294,6 +1295,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 
 
 </items>
+
 
 
 
