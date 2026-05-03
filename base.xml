@@ -136,7 +136,7 @@
         <thumbnail>https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278508.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0l6/index.m3u8</link>
-        <link>http://200.92.227.238:8000/play/a0mu/index.m3u8</link>
+        link>http://200.92.227.238:8000/play/a0mu/index.m3u8</link>
         link>http://45.5.117.57:8999/play/a05u/index.m3u8</link>
         link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.ts.m3u8</link>
     </item>
@@ -162,7 +162,7 @@
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278496.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0l5/index.m3u8</link>
-        <link>http://38.180.133.31:8000/play/a0le/index.m3u8</link>
+        link>http://38.180.133.31:8000/play/a0le/index.m3u8</link>
         <link>http://181.205.130.194:4000/play/a0dr</link>
     </item>
 
@@ -437,15 +437,15 @@
     <item>
         <title>[COLOR white][B] 3.20.0 - Sony Canal Novelas[/B][/COLOR]</title>
         <thumbnail>https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504</thumbnail>
-        <link>https://spt-novelas-1-us.lg.wurl.tv/3000.m3u8</link>
-        <link>https://spt-novelas-1-us.lg.wurl.tv/2000.m3u8</link>
+        link>https://spt-novelas-1-us.lg.wurl.tv/3000.m3u8</link>
+        link>https://spt-novelas-1-us.lg.wurl.tv/2000.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.20.1 - Sony Canal Competencias[/B][/COLOR]</title>
         <thumbnail>https://images.pluto.tv/channels/662bf39756fc840008f25cb9/thumbnail_1731964423209.jpg</thumbnail>
-        <link>https://spt-competencias-1-us.canelatv.wurl.tv/4300.m3u8</link>
-        <link>https://spt-competencias-1-us.canelatv.wurl.tv/2000.m3u8</link>
+        link>https://spt-competencias-1-us.canelatv.wurl.tv/4300.m3u8</link>
+        link>https://spt-competencias-1-us.canelatv.wurl.tv/2000.m3u8</link>
     </item>
 
     <item>
@@ -704,7 +704,7 @@ link>https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a1/mono.ts.m3u8</link>
                         <item>
                         <title>[COLOR white][B] 4.10.1 - FXX [/B][/COLOR]</title> 
 <thumbnail>https://capitalgroupenterprises.com/wp-content/uploads/2025/01/FXX.png</thumbnail>
-<link>http://fl2.moveonjoy.com/FXX/index.m3u8</link>
+link>http://fl2.moveonjoy.com/FXX/index.m3u8</link>
                         </item>
 
 
@@ -714,7 +714,7 @@ link>https://streamer1.nexgen.bz/DISCOVERY_WORLD/tracks-v1a1/mono.ts.m3u8</link>
                         <title>[COLOR white][B] 4.10.2 - Comedy Central East [/B][/COLOR][COLOR green] HQ[/COLOR] USA</title>
 <thumbnail>https://newyorkcomedyclub.com/img/events/comedy-central-showcase-new-york-comedy-club-on-4th-street-6f481bac-main-image.jpg</thumbnail>
                         link>https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8</link>
-                        <link>http://fl2.moveonjoy.com/Comedy_Central/index.m3u8</link>
+                        link>http://fl2.moveonjoy.com/Comedy_Central/index.m3u8</link>
                         </item>
 
 
