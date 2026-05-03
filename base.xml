@@ -59,7 +59,7 @@
         <thumbnail>https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png</thumbnail>
         <link>http://181.114.57.246:4000/play/xDmVBDWKHJDg/index.m3u8</link>
         <link>http://181.114.57.246:4000/play/8EVmhNhJHQUwrNKA/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/tracks-v1a2/mono.ts.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a008</link>
     </item>
 
     <item>
@@ -215,6 +215,7 @@
         <title>[COLOR white][B] 3.6.1.2 - AMC Series [/B][/COLOR]MX</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1969077635432042497/aa08O61K_400x400.jpg</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278435.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a004</link>
     </item>
 
     <item>
@@ -253,7 +254,7 @@
     <item>
         <title>[COLOR white][B] 3.9.1 - Universal TV[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278449.m3u8</link>
+        <link>http://181.205.130.194:4000/play/a06f</link>
         <link>http://45.5.119.43:4000/play/a0ih/index.m3u8</link>
     </item>
 
@@ -1021,6 +1022,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
 <title>[COLOR white][B]34.2 Atreseries [/B][/COLOR] [COLOR FF00FF00](1080p)[/COLOR]ESPAÑA</title>
 <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/atreseries-mediano.png</thumbnail>
 <link>http://176.65.146.237:8401/play/a0ai/index.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a005</link>
 </item>
 
 <item>
