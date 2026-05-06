@@ -525,10 +525,17 @@
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278524.m3u8</link>
     </item>
 
+    <item>
+        <title>[COLOR FF00BFFF][B] 3.26.3 - Disney Channel [/B][/COLOR]</title>
+        <thumbnail>https://mir-s3-cdn-cf.behance.net/projects/404/2d30ad150601165.Y3JvcCw4OTcsNzAyLDQ4NiwxODg.jpg</thumbnail>
+        link>http://200.125.170.122:8000/play/a057</link>
+    </item>
+
+
 
 
 						<item>
-                        <title>[COLOR white][B] 3.26.3 - Locomotion [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <title>[COLOR white][B] 3.26.4 - Locomotion [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
 <thumbnail>https://image.roku.com/developer_channels/prod/80b113d89479da37877f5096c26987abcc7a3d81f07a9a0c6bc6f0a15c4fb650.png</thumbnail>
                         <link>http://51.222.85.85:81/hls/loco/index.m3u8</link>
                         </item>
