@@ -263,7 +263,7 @@
     <item>
         <title>[COLOR white][B] 3.9 - Studio Universal [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278518.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a0e9/index.m3u8</link>
         link>https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.ts.m3u8</link>
     </item>
 
