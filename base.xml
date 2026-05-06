@@ -49,9 +49,9 @@
     <item>
         <title>[COLOR white][B] 3.3 - Discovery Channel[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png</thumbnail>
+        <link>http://200.125.170.122:8000/play/a062</link>
         <link>http://181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0kn/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.ts.m3u8</link>
     </item>
 
     <item>
@@ -87,6 +87,7 @@
     <item>
         <title>[COLOR white][B] 3.4.3.1 - Discovery World [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png</thumbnail>
+        <link>http://200.125.170.122:8000/play/a063</link>
         <link>http://45.5.119.43:4000/play/a0kp/index.m3u8</link>
     </item>
 
@@ -99,7 +100,7 @@
     <item>
         <title>[COLOR white][B] 3.4.4 - Discovery Turbo[/B][/COLOR]MX</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278414.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a059</link>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278396.m3u8</link>
     </item>
 
@@ -376,7 +377,7 @@
     <item>
         <title>[COLOR white][B] 3.16.1 - Serie TNT [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278443.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a061</link>
         <link>http://45.5.119.43:4000/play/a0km/index.m3u8</link>
     </item>
 
@@ -428,7 +429,7 @@
     <item>
         <title>[COLOR white][B] 3.19 - Pasiones[/B][/COLOR] Ecuador</title>
         <thumbnail>https://yt3.googleusercontent.com/czxQxYU7hERMABPcpl6ayjo5NvzNcWjj9bKRdr6UbMZqdbF0QR998JZoO63y_hSHR7eb3B1PGw=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278436.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a064</link>
         <link>https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8</link>
     </item>
 
