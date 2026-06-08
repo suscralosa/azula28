@@ -255,9 +255,9 @@
     <item>
         <title>[COLOR white][B] 3.7 - Star Channel[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_fox_m.png</thumbnail>
+        <link>http://200.115.96.66:4000/play/a0hf/index.m3u8</link>
         <link>http://200.125.170.122:8000/play/a0a0/index.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0hn/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/STARCHANNEL/tracks-v1a2/mono.ts.m3u8</link>
     </item>
 
     <item>
