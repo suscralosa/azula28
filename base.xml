@@ -27,8 +27,10 @@
     <item>
         <title>[COLOR white][B] 3.1.2 - SONY MOVIES [/B][/COLOR]MX</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png</thumbnail>
-        <link>http://200.125.170.122:8000/play/a02o/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a03s/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a02w/index.m3u8</link>
+        <link>http://45.173.75.4:2061/play/a0bd</link>
+		link>http://200.125.170.122:8000/play/a02o/index.m3u8</link>
+        link>http://45.5.119.43:4000/play/a03s/index.m3u8</link>
         link>http://45.5.117.57:8999/play/a01r/index.m3u8</link>
     </item>
 
@@ -37,9 +39,9 @@
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXicq7ie_6pk9OUUoxvLIpElTO8mouwZYtfVMDH6DgCAlgeBh6rEqB_jGAt7mGvnB_ofWZVDww8fmLlRjWhwEIBUMV7zWlWazo4KkG9jct6yhgqnFM-PrQIcjQzD_0Hs2f_eGw5hVVXSBHQv720TiLs3Wp3m9Yjh7js4hMddnXB1WCzUXbg22vQgff97k/s530/asdsadWarner2018LAwww22.png</thumbnail>
         <link>http://200.115.96.66:4000/play/a00y/index.m3u8</link>
 	    <link>http://45.173.75.4:2061/play/a05u</link>
-	    <link>http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
-        <link>http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8</link>
-        <link>http://200.125.170.122:8000/play/a0dc/index.m3u8</link>
+	    link>http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
+        link>http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8</link>
+        link>http://200.125.170.122:8000/play/a0dc/index.m3u8</link>
     </item>
 
     <item>
