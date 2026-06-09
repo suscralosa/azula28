@@ -270,12 +270,14 @@
         <title>[COLOR white][B] 3.9 - Studio Universal [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
         link>http://200.125.170.122:8000/play/a0e9/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.ts.m3u8</link>
+        <link>http://45.173.75.4:2061/play/a06w</link>
+        <link>http://200.115.96.66:4000/play/a038/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.1 - Universal TV[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg</thumbnail>
+        <link>http://45.173.75.4:2061/play/a09e</link>
         <link>http://181.205.130.194:4000/play/a06f</link>
         <link>http://45.5.119.43:4000/play/a0ih/index.m3u8</link>
     </item>
