@@ -309,13 +309,14 @@
     <item>
         <title>[COLOR white][B] 3.9.5 - Universal REALLITY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&amp;s</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a036/index.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0i3/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.6 - Universal COMEDY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&amp;s</thumbnail>
+        <link>http://200.115.96.66:4000/play/a032/index.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0i5/index.m3u8</link>
     </item>
 
