@@ -1,95 +1,286 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1727984938429.png" group-title="Argentina", ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1728331267466.png" group-title="Argentina", FOX SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705791961383.png" group-title="Argentina", FOX SPORTS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705792707148.png" group-title="Argentina", TYC SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
 
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Estelar
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696892891230.png" group-title="Chile", CNN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/564.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696893533515.png" group-title="Chile", ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/612.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696907584347.jpg" group-title="Chile", MEGA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/581.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Colombia", CARACOL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1606870464386.png" group-title="Colombia", CARACOL INT HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/607.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705794856388.png" group-title="Colombia", TRO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/613.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712664529231.jpeg" group-title="Colombia", TVN GLOBAL
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705155405.png" group-title="Ecuador", CAPRICHO TV
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Ecuador", DTVS HD
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705640438.png" group-title="Ecuador", ECUAVISA
+https://eu1.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706033458.png" group-title="Ecuador", EDUCA TV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706327256.png" group-title="Ecuador", INFINITA
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578010305269.png" group-title="El Savador", Canal 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/621.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578011239343.png" group-title="El Savador", Canal 6 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/623.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675125148.jpg" group-title="El Savador", KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675011247.png" group-title="El Savador", TVES CANAL 10 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/627.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712674260523.jpeg" group-title="El Savador", TV DAJA
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750275847487.png" group-title="España", CANAL MALAGA HD
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750276098426.png" group-title="España", INTERALMERIA TV
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750277536305.png" group-title="España", RIBERA TV
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1753219653150.png" group-title="España", 24 Horas
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12622.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547764643405.png" group-title="España", ANTENA 3 FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/68.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1676417114291.png" group-title="España", ANTENA 3 INT HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/615.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705869678329.png" group-title="España", AXN White HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/651.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683573582269.png" group-title="España", BARCA TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/100.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705871344570.png" group-title="España", CAZA Y PEZCA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572667276.png" group-title="España", DAZN F1 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572554452.png" group-title="España", LASEXTA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/620.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572003360.png" group-title="España", REAL MADRID TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/121.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1749308399581.png" group-title="España", TELECINCO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12338.m3u8
 
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas",Estrellas de Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705886366309.png" group-title="Honduras", CANAL 5 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/644.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759293258.jpeg" group-title="Honduras", TV CENTRO 27.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759081576.png" group-title="Honduras", TV CENTRO
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759503335.jpeg" group-title="Honduras", TELEVISION METROPOLIS19.2
 
-#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Películas",Pluto TV Adrenalina Freezone
-https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106096168.jpg" group-title="Italy", 2 TV HD
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106326310.jpg" group-title="Italy", ALTO ADIGE TV HD
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w916461592.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", ANTENNA TRE NORDEST HD
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106504243.jpg" group-title="Italy", CAFETV24 VENETO OPT 1 HD
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", CANALE 10 HD
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110110197.jpg" group-title="Italy", CANALE 7 HD
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110206530.jpg" group-title="Italy", CANALE 8 HD
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110349473.jpg" group-title="Italy", COMPANY TV HD
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110431432.png" group-title="Italy", EDEN TV 86 HD
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110589287.jpg" group-title="Italy", ESPERIA TV 18 CALABRIA HD
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110657233.png" group-title="Italy", FOX CRIME HD
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110737158.png" group-title="Italy", LA 7 HD
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110835342.png" group-title="Italy", NAT GEOGRAPHIC HD
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110882188.jpeg" group-title="Italy", OTTO FM TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111128152.png" group-title="Italy", RAI 3 HD
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111260516.jpg" group-title="Italy", SUPER TV HD
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111376166.jpg" group-title="Italy", TELEFRIULI HD
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Comedia
-https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547833827201.png" group-title="Mexico", ADN 40 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/390.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547833954389.png" group-title="Mexico", AZTECA 7 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/650.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834490388.png" group-title="Mexico", AZTECA 1 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/651.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834050414.png" group-title="Mexico", AZTECA CLIC HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/652.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1593116493308.png" group-title="Mexico", BANDAMAX HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/60.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834628291.png" group-title="Mexico", CANAL 5 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/655.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834687197.png" group-title="Mexico", CANAL 8 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/656.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834848437.png" group-title="Mexico", CANAL 11 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/657.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547835543293.png" group-title="Mexico", Canal De Las Estrellas HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/759.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1718756536479.png" group-title="Mexico", Distrito Comedia HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/660.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578001597258.png" group-title="Mexico", ESTRELLA TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/5.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1637951657344.png" group-title="Mexico", FOX SPORTS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1549582567454.png" group-title="Mexico", FORO TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/390.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547835476175.png" group-title="Mexico", GALAVISION HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/11.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1593128576286.png" group-title="Mexico", IMAGEN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/662.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1593113021221.png" group-title="Mexico", MTV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/86.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1561397994311.png" group-title="Mexico", TVC DEPORTES HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1593127493521.png" group-title="Mexico", TELEVISA PUEBLA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/667.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547506801192.png" group-title="Mexico", FOX DEPORTES HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547836722310.png" group-title="Mexico", UNICABLE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/669.m3u8
 
-#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Drama
-https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Romance
-https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Suspenso
-https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="624af40c004f8000079b784d" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Crimen
-https://stitcher.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Terror
-https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
-https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Películas",Runtime
-https://stitcher.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas",Pluto TV  Nuestro Cine
-https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dfcde52d28b09000a42d7a2" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="Películas",Pluto TV A La Mexicana
-https://stitcher.pluto.tv/stitch/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
-https://stitcher.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Familia
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-
-#EXTINF:-1 tvg-id="655f62ff954b020008c91ec6" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Series",Pluto TV Series de Crimen
-https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series",CSI: Miami
-https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Series",NCIS
-https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Series",Pluto TV Series de Acción
-https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Series",Rookie Blue: Policías Novatos
-https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="64ff26233efb5100082eeb2e" tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" group-title="Series",Infierno Sobre Ruedas
-https://stitcher.pluto.tv/stitch/hls/channel/64ff26233efb5100082eeb2e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Series",Pluto TV Series
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="655f636d954b020008c93299" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG.png" group-title="Series",Pluto TV Series de Drama
-https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="Series",Younger
-https://stitcher.pluto.tv/stitch/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="Series",Pluto TV Dramas Coreanos
-https://stitcher.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG.png" group-title="Series",Pluto TV Dramas Coreanos Teen
-https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Series",Vive Kanal D Drama
-https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5ffe17e3d765170007c3a4fe" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Series",Pluto TV España
-https://stitcher.pluto.tv/stitch/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Series",Pluto TV Series Latinas
-https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
-
-#EXTINF:-1 tvg-id="66aa6e03fe11e500086038ed" tvg-logo="https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png" group-title="Series",Al Fondo Hay Sitio
-https://stitcher.pluto.tv/stitch/hls/channel/66aa6e03fe11e500086038ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2fee9023-7943-11ef-a592-6a741f439ddb
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1606854679570.png" group-title="Español Canales Locales", AMERICA TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1681976251154.png" group-title="Español Canales Locales", CARACOL FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437728515.png" group-title="Español Canales Locales", ESTRELLA TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/5.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439511214.png" group-title="Español Canales Locales", GALAVISION HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/11.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1681976420327.png" group-title="Español Canales Locales", MEGA TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/15.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437646534.png" group-title="Español Canales Locales", PASIONES FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/21.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1751994704436.png" group-title="Español Canales Locales", TELEMUNDO NUEVA INGLATERA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12339.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437896377.png" group-title="Español Canales Locales", TELEMUNDO CHICAGO FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439342262.png" group-title="Español Canales Locales", TELEMUNDO DALLAS FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/24.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439272566.png" group-title="Español Canales Locales", TELEMUNDO INT HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/44.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439251144.png" group-title="Español Canales Locales", TELEMUNDO LAS VEGAS FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/48.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439193329.png" group-title="Español Canales Locales", TELEMUNDO LOS ANGELES HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/50.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439157589.png" group-title="Español Canales Locales", TELEMUNDO MIAMI HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439157589.png" group-title="Español Canales Locales", TELEMUNDO SAN DIEGO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/70.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439137554.png" group-title="Español Canales Locales", TELEMUNDO NEW YORK FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/57.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437914564.png" group-title="Español Canales Locales", TELEMUNDO ORLANDO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437921228.png" group-title="Español Canales Locales", TELEMUNDO PHILADELPHIA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/143.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439020209.png" group-title="Español Canales Locales", TELEMUNDO PHOENIX FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437934378.png" group-title="Español Canales Locales", TELEMUNDO PUERTO R HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/144.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683437949464.png" group-title="Español Canales Locales", TELEMUNDO TAMPA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/37.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439974444.png" group-title="Español Canales Locales", UNIMAS FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/146.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439677482.png" group-title="Español Canales Locales", UNIMAS MIAMI HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/149.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683439624429.png" group-title="Español Canales Locales", UNIMAS NEW YORK HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/148.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440266250.png" group-title="Español Canales Locales", UNIVISION FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/152.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440185187.png" group-title="Español Canales Locales", UNIVISION CHICAGO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/359.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440220563.png" group-title="Español Canales Locales", UNIVISION DALLAS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/153.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1744928028569.png" group-title="Español Canales Locales", UNIVISION HOUSTON HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12329.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440370495.png" group-title="Español Canales Locales", UNIVISION LOS ANGELES FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/155.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440434345.png" group-title="Español Canales Locales", UNIVISION MIAMI HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440479273.png" group-title="Español Canales Locales", UNIVISION NEW YORK HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/163.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1699381292195.png" group-title="Español Canales Locales", UNIVISION PHILADELPHIA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/360.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440606210.png" group-title="Español Canales Locales", UNIVISION SAN FRANCISCO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683440886313.png" group-title="Español Canales Locales", TUDN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732321126468.png" group-title="Español Canales Locales", TUDN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683441193320.png" group-title="Español Canales Locales", WAPA AMERICA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/167.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Español Cinema", A&E HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1758228932250.png" group-title="Español Cinema", AXN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442303405.png" group-title="Español Cinema", AMC HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706286457438.png" group-title="Español Cinema", AZ CINEMA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/361.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544737082380.png" group-title="Español Cinema", CINECANAL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442381131.png" group-title="Español Cinema", CINEMAX HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442516131.png" group-title="Español Cinema", DE PELICULA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443727250.png" group-title="Español Cinema", FX HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739123150.png" group-title="Español Cinema", GOLDEN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316284410.png" group-title="Español Cinema", GOLDEN PREMIER HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739474164.png" group-title="Español Cinema", GOLDEN PLUS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443298334.png" group-title="Español Cinema", HBO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443258149.png" group-title="Español Cinema", HBO 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443281276.png" group-title="Español Cinema", HBO FAMILY HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739879213.png" group-title="Español Cinema", HBO PLUS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316540502.png" group-title="Español Cinema", HBO MUNDI HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085875504.png" group-title="Español Cinema", HBO POP HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085701449.png" group-title="Español Cinema", HBO XTREME HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740389168.png" group-title="Español Cinema", HBO SIGNATURE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443563188.png" group-title="Español Cinema", SONY HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740891459.png" group-title="Español Cinema", SPACE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1585279858413.png" group-title="Español Cinema", STUDIO UNIVERSAL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683480503536.png" group-title="Español Cinema", STARZ ENCORE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/61.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706318497163.jpeg" group-title="Español Cinema", UNIVERSAL CINEMA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320196244.png" group-title="Español Cinema", UNIVERSAL CRIME HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320501545.png" group-title="Español Cinema", UNIVERSAL PREMIERE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544741162540.png" group-title="Español Cinema", WARNER HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Español Cultura-Documental", ANIMAL PLANET FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479219189.png" group-title="Español Cultura-Documental", DISCOVERY CHANNEL FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/7.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479308317.png" group-title="Español Cultura-Documental", DISCOVERY FAMILIA FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
