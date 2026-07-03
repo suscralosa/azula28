@@ -148,8 +148,8 @@
     <item>
         <title>[COLOR white][B] 3.5 - HBO [/B][/COLOR]MX</title>
         <thumbnail>https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8</link>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278498.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a029</link>
+        <link>http://200.115.96.66:4000/play/a01z/index.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0l2/index.m3u8</link>
         link>http://45.5.117.57:8999/play/a05q/index.m3u8</link>
     </item>
