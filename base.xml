@@ -10,45 +10,35 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.1 - CANAL SONYY [/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.1 - CANAL SONYY [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png</thumbnail>
         link>https://fl2.moveonjoy.com/Sony_Movie_Channel/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0hp/index.m3u8|http://45.181.122.46:8090/play/a00e|http://181.119.86.68:8000/play/c023/index.m3u8</link>
+        <link>http://181.119.86.68:8000/play/c023/index.m3u8|http://45.5.119.43:4000/play/a0hp/index.m3u8|http://45.181.122.46:8090/play/a00e</link>
         link>http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.1.1 - SONY CINEE [/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.1.1 - SONY CINEE [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2o_e_naRFWwJpJC-eMG3G0wdOsDVdnAMR8tkm2aSfRpIGAOwgnyWdiybNGYX4FLSD7f2xyEDw1EEQl8yukS0SCkPD3U0Cy0fPXeP-wNea_BdKTYaH4SW8peuO2y2UisFcUdEgA08MvUQV9Oa9oT3su0GZYaGleygM3MCtx_XlGTAt1_ueW5MFA5_GjjM/s256/raadasddio_csr.png</thumbnail>
         <link>https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.1.2 - SONY MOVIES [/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.1.2 - SONY MOVIES [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a02w/index.m3u8</link>
-        link>http://45.173.75.4:2061/play/a0bd</link>
-		link>http://200.125.170.122:8000/play/a02o/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a03s/index.m3u8</link>
-        link>http://45.5.117.57:8999/play/a01r/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a02w/index.m3u8|http://45.5.119.43:4000/play/a03s/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.2 - HISTORY CHANNEL [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXicq7ie_6pk9OUUoxvLIpElTO8mouwZYtfVMDH6DgCAlgeBh6rEqB_jGAt7mGvnB_ofWZVDww8fmLlRjWhwEIBUMV7zWlWazo4KkG9jct6yhgqnFM-PrQIcjQzD_0Hs2f_eGw5hVVXSBHQv720TiLs3Wp3m9Yjh7js4hMddnXB1WCzUXbg22vQgff97k/s530/asdsadWarner2018LAwww22.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a00y/index.m3u8</link>
-	    link>http://45.173.75.4:2061/play/a05u</link>
-	    <link>http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
-        link>http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8</link>
-        link>http://200.125.170.122:8000/play/a0dc/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a00y/index.m3u8|http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.2 - HISTORY 2 [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0nbw-GYd1SWMC-R6BrXKIE0H2Xiwo0dLZYOop8UIv76vXK5b-iy6kHwwGJnkYDgxLhF6yuKUZWfWPYHolI6QAUBV2_WlR-Q0JEe1ruhRPUsoo9eJYWBStXfOvq9mvxG24di1gmaK18-U58E-xBSiVDBd6I83vp5AWXXHWTYv0bD-2RMVLzVlZ79pzVkQ/s530/asdsadWarner2018LAwww222222.png</thumbnail>    
-		<link>http://200.115.96.66:4000/play/a016/index.m3u8</link>
-		<link>http://45.5.119.43:4000/play/a0jp/index.m3u8</link>
-		link>http://200.125.170.122:8000/play/a03z/index.m3u8</link>
+		<link>http://200.115.96.66:4000/play/a016/index.m3u8|http://45.5.119.43:4000/play/a0jp/index.m3u8</link>
     </item>
 
     <item>
@@ -153,14 +143,11 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.5.1 - HBO Xtreme[/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.5.1 - HBO Xtreme[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png</thumbnail>
-        <link>http://45.181.122.46:8090/play/a018</link>
-        <link>http://45.5.119.43:4000/play/a0l6/index.m3u8</link>
-        <link>http://190.60.37.118:4000/play/a03z</link>
-        <link>http://200.115.96.66:4000/play/a02o/index.m3u8</link>
-        link>http://45.5.117.57:8999/play/a05u/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.ts.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a018|http://45.5.119.43:4000/play/a0l6/index.m3u8
+			|http://190.60.37.118:4000/play/a03z
+			|http://200.115.96.66:4000/play/a02o/index.m3u8</link>
     </item>
 
     <item>
