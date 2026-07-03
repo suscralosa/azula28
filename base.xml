@@ -204,7 +204,6 @@
     <item>
         <title>[COLOR white][B] 3.6.1.2 - AMC [/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1544010572127211520/IMV4Vz3l_400x400.jpg</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278394.m3u8</link>
         <link>http://200.115.96.66:4000/play/a0fz/index.m3u8|http://45.5.119.43:4000/play/a0gu/index.m3u8</link>
     </item>
 	
@@ -243,10 +242,7 @@
     <item>
         <title>[COLOR white][B] 3.7 - Star Channell[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_fox_m.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a0hf/index.m3u8</link>
-        link>http://45.173.75.4:2061/play/a08l</link>
-        link>http://200.125.170.122:8000/play/a0a0/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0hn/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a0hf/index.m3u8|http://45.5.119.43:4000/play/a0hn/index.m3u8</link>
     </item>
 
     <item>
@@ -275,38 +271,37 @@
     <item>
         <title>[COLOR white][B] 3.9.3 - Universal CRIME[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&amp;s</thumbnail>
-        <link>http://200.115.96.66:4000/play/a033/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0i4/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a033/index.m3u8|http://45.5.119.43:4000/play/a0i4/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.4 - Universal PREMIER[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&amp;s</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8</link>
-        <link>http://200.115.96.66:4000/play/a035/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0i2/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0i1/index.m3u8</link>
-        <link>http://200.115.96.66:4000/play/a034/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a035/index.m3u8|http://45.5.119.43:4000/play/a0i2/index.m3u8</link>
     </item>
-
+	
+    <item>
+        <title>[COLOR white][B] 3.9.4 - Universal PREMIER USA[/B][/COLOR]</title>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&amp;s</thumbnail>
+        <link>http://45.5.119.43:4000/play/a0i1/index.m3u8|http://200.115.96.66:4000/play/a034/index.m3u8</link>
+    </item>
+	
     <item>
         <title>[COLOR white][B] 3.9.5 - Universall REALLITY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&amp;s</thumbnail>
-        <link>http://200.115.96.66:4000/play/a036/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0i3/index.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a036/index.m3u8|http://45.5.119.43:4000/play/a0i3/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.6 - Universal CCOMEDY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&amp;s</thumbnail>
-        <link>http://45.5.119.43:4000/play/a0i5/index.m3u8</link>
-        <link>http://200.115.96.66:4000/play/a032/index.m3u8</link>
+        <link>http://45.5.119.43:4000/play/a0i5/index.m3u8|http://200.115.96.66:4000/play/a032/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.10 - USA Network [/B][/COLOR]MX</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixz2DxetETFAjvsk0d97wYZp9hyMFl8isHh4ErN64gDLYBf0Y3pkbBgf4ewiVXo-iSDOLxQqaEi5xFWBlcWwIPXDS5dJpoWcJk1AQ8W6z3w6uwdTrVOD2Cqcy7DnVYEooqPouqG7FWJ94LCYMCCMkhpyTK_YTY07SZqtjDpHLkQq5jXESMUhay4nZHkxc/s530/USA.png</thumbnail>
-        <link>http://181.205.130.194:4000/play/a06v</link>
         <link>http://181.205.130.194:4000/play/a06v</link>
     </item>
 
@@ -328,17 +323,13 @@
         <title>[COLOR white][B] 3.14 - A&amp;E [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png</thumbnail>
         link>http://181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0gt/index.m3u8</link>
-        <link>http://181.205.130.194:4000/play/a07n</link>
+        <link>http://45.5.119.43:4000/play/a0gt/index.m3u8|http://181.205.130.194:4000/play/a07n</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.14.1 - F X [/B][/COLOR]</title>
         <thumbnail>http://images.mi.tv/channels/mx_fx_m.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a0he/index.m3u8</link>
-        <link>http://45.181.122.46:8090/play/a01l</link>
-        link>http://45.173.75.4:2061/play/a01x</link>
-        <link>http://45.5.119.43:4000/play/a0gw/index.m3u8</link>
+        <link>http://45.173.75.4:2061/play/a01x|http://200.115.96.66:4000/play/a0he/index.m3u8|http://45.5.119.43:4000/play/a0gw/index.m3u8|http://45.181.122.46:8090/play/a01l</link>
     </item>
 
     <item>
@@ -356,7 +347,6 @@
     <item>
         <title>[COLOR white][B] 3.15 - Canal Golden (México) [/B][/COLOR]</title>
         <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278483.m3u8</link>
         <link>http://45.5.119.43:4000/play/a0jv/index.m3u8</link>
     </item>
 
