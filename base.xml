@@ -335,7 +335,7 @@
     <item>
         <title>[COLOR white][B] 3.15 - Canal Golden (México) [/B][/COLOR]</title>
         <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png</thumbnail>
-        <link>45.181.122.46:8090/play/a019|http://45.5.119.43:4000/play/a0jv/index.m3u8|http://200.115.96.66:4000/play/a0dp/index.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a019|http://45.5.119.43:4000/play/a0jv/index.m3u8|http://200.115.96.66:4000/play/a0dp/index.m3u8</link>
     </item>
 
     <item>
@@ -347,7 +347,7 @@
     <item>
         <title>[COLOR white][B] 3.15.2 - Canal Golden Premier [/B][/COLOR]</title>
         <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png</thumbnail>
-        <link>http://200.125.170.122:8000/play/a00l|http://200.115.96.66:4000/play/a01r/index.m3u8</link>
+        <link>http://200.125.170.122:8000/play/a00l|http://200.115.96.66:4000/play/a01r/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8</link>
     </item>
 
     <item>
