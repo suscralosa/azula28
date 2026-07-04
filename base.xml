@@ -492,8 +492,7 @@
     <item>
         <title>[COLOR white][B] 3.24 - Adult Swim[/B][/COLOR]</title>
         <thumbnail>https://i.pinimg.com/736x/26/48/95/2648952b91fe9a4a05dd816dca6c39c4.jpg</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278391.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a051/index.m3u8</link>
+        <link>http://45.5.119.43:4000/play/a051/index.m3u8|http://200.115.96.66:4000/play/a01l/index.m3u8</link>
     </item>
 
     <item>
