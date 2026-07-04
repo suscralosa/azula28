@@ -159,23 +159,32 @@
     <item>
         <title>[COLOR white][B] 3.5.5 - HBO Mundi[/B][/COLOR]MX</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8</link>
+        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.6 - HBO Signature[/B][/COLOR]MX</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278505.m3u8</link>
+        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.7 - HBO Pop[/B][/COLOR]MX</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/ar_max-up_m.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278503.m3u8</link>
+        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8</link>
     </item>
 
+	
     <item>
-        <title>[COLOR white][B] 3.6 - AXN [/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.6 - A&amp;E [/B][/COLOR]</title>
+        <thumbnail>https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png</thumbnail>
+        link>http://181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8</link>
+        <link>http://45.5.119.43:4000/play/a0gt/index.m3u8|http://181.205.130.194:4000/play/a07n</link>
+    </item>
+
+	
+    <item>
+        <title>[COLOR white][B] 3.6.1 - AXN [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/co_axn_m.png</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278386.m3u8</link>
         link>http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8</link>
@@ -184,25 +193,25 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.6.1 - AMC [/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.6.2 - AMC [/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1544010572127211520/IMV4Vz3l_400x400.jpg</thumbnail>
         <link>https://amc-amcespanol-1-us.tablo.wurl.tv/4300.m3u8</link>
     </item>
 	
     <item>
-        <title>[COLOR white][B] 3.6.1.2 - AMC [/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.6.3 - AMC [/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1544010572127211520/IMV4Vz3l_400x400.jpg</thumbnail>
         <link>http://200.115.96.66:4000/play/a0fz/index.m3u8|http://45.5.119.43:4000/play/a0gu/index.m3u8</link>
     </item>
 	
     <item>
-        <title>[COLOR white][B] 3.6.1.1 - Europa Europa TV [/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.6.4 - Europa Europa TV [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8uHaJfZLaoITc4x2vO-HJFk3ugtqtN3uEhKuyhan0EZEVbMLN4B6A2JEvrXBOCGM5c-fHbFFSbQ6BvzNRVXa-Myor38cPUq7QYSCAgoKJYqjc0M_MmUO7K7nGnhBmSwzl5qdHooScWpv3W6BzEn93av6Anc8kO3LRZ9oLEkHu15FcmsZMPWGamR2aR8/s1600/EE.png</thumbnail>
         <link>http://200.125.170.122:8000/play/a033|http://200.115.96.66:4000/play/a01j/index.m3u8</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.6.1.2 - AMC Series [/B][/COLOR]MX</title>
+        <title>[COLOR white][B] 3.6.5 - AMC Series [/B][/COLOR]MX</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1969077635432042497/aa08O61K_400x400.jpg</thumbnail>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278435.m3u8</link>
         link>http://200.125.170.122:8000/play/a004</link>
@@ -298,14 +307,6 @@
         <thumbnail>https://ottadvertisingsales.com/wp-content/uploads/2020/08/Lifetime-logo.png</thumbnail>
         link>https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.ts.m3u8</link>
         link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278433.m3u8</link>
-    </item>
-
-
-    <item>
-        <title>[COLOR white][B] 3.14 - A&amp;E [/B][/COLOR]</title>
-        <thumbnail>https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png</thumbnail>
-        link>http://181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0gt/index.m3u8|http://181.205.130.194:4000/play/a07n</link>
     </item>
 
     <item>
