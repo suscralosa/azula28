@@ -354,12 +354,18 @@
         <thumbnail>https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg</thumbnail>
         <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8</link>
     </item>
-
 	
     <item>
         <title>[COLOR white][B] 3.16 - TNT [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/120px-TNT_Logo_2016.svg.png</thumbnail>
-        <link>http://45.5.119.43:4000/play/a0hu/index.m3u8|http://181.205.130.194:4000/play/a06n</link>
+        <link>http://45.181.122.46:8090/play/a01s|http://181.205.130.194:4000/play/a06n</link>
+    </item>
+
+	
+    <item>
+        <title>[COLOR white][B] 3.16 - TNT 2[/B][/COLOR]</title>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/120px-TNT_Logo_2016.svg.png</thumbnail>
+        <link>http://45.5.119.43:4000/play/a0hu/index.m3u8|http://200.115.96.66:4000/play/a0d2/index.m3u8|http://181.205.130.194:4000/play/a06n</link>
     </item>
 
     <item>
@@ -372,7 +378,7 @@
     <item>
         <title>[COLOR white][B] 3.16.2 - TNT Novelas [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a01p/index.m3u8|http://45.5.119.43:4000/play/a0g9/index.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a00x|http://200.115.96.66:4000/play/a01p/index.m3u8|http://45.5.119.43:4000/play/a0g9/index.m3u8</link>
     </item>
 
     <item>
