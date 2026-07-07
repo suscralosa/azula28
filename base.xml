@@ -238,15 +238,13 @@
     <item>
         <title>[COLOR white][B] 3.9 - Studio Universall [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
-        <link>http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://45.181.122.46:8090/play/a02d|http://8.243.126.131:8000/play/a0gw/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
+        <link>http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://8.243.126.131:8000/play/a0gw/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.1 - Universal TV[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg</thumbnail>
-        link>http://45.173.75.4:2061/play/a09e</link>
-        <link>http://45.5.119.43:4000/play/a0ih/index.m3u8</link>
-        <link>http://181.205.130.194:4000/play/a06f</link>
+        <link>http://181.205.130.194:4000/play/a06f|http://45.5.119.43:4000/play/a0ih/index.m3u8|http://200.125.170.122:8000/play/a067|http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8</link>
     </item>
 
     <item>
