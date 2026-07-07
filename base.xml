@@ -220,10 +220,7 @@
     <item>
         <title>[COLOR white][B] 3.7 - CINEMAX [/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&amp;s</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0il/index.m3u8</link>
-        <link>http://38.44.109.41:8003/play/a023/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.ts.m3u8</link>
+        <link>http://200.115.96.66:4000/play/a0e2/index.m3u8|http://38.97.240.11:8000/play/a0mu/index.m3u8|http://38.97.240.11:8000/play/a0lg/index.m3u8|http://45.181.122.46:8090/play/a01y|http://8.243.126.131:8000/play/a0gv/index.m3u8|http://45.5.119.43:4000/play/a0il/index.m3u8</link>
     </item>
 
     <item>
