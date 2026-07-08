@@ -58,6 +58,62 @@
 
 
                         <item>
+                        <title>[COLOR white][B] 16 - Milenio [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png</thumbnail>
+                        <link>https://stream.ads.ottera.tv/cl/260708d971k0a44f7s73dhdkt0/1920x1080_4215200_4_f.m3u8?i=728_6403|https://stream.ads.ottera.tv/cl/260708d971k0a44f7s73dhdkt0/1280x720_3071200_0_f.m3u8?i=728_6403</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 9.1 - ADN 40 [/B][/COLOR][COLOR white] SD[/COLOR]  </title>
+<thumbnail>https://lh3.googleusercontent.com/GToMwYPgp71X-kkdyydnlHr9IVP1ls4lNC8lTPiNU6mzFvd_U3S7Bp7zEKdJH4PQ7rY</thumbnail>
+                        <link>https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 11 - Canal 11 (México) [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Image_of_Canal_11.png/250px-Image_of_Canal_11.png</thumbnail>
+                        <link>https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8|https://s5.mexside.net:1936/stream/stream/playlist.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 14 - Canal Catorce [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/120px-Logo_Canal_14_M%C3%A9xico.svg.png</thumbnail>
+                        <link>https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 13 - TV UNAM[/B][/COLOR][COLOR white] SD[/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_tv-unam-nuevo_m.png</thumbnail>
+                        <link>https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 12 - Mexiquense Televisión[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8f/Logo_Radio_y_televisi%C3%B3n_mexiquense_2023.jpg</thumbnail>
+                        <link>https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
                         <title>[COLOR white][B] 5.4 - TeleFórmula [/B][/COLOR][COLOR green] HQ[/COLOR] México - Ciudad de México</title>
 <thumbnail>https://www.prensario.net/multimedios/imgs/55254_750.jpg</thumbnail>
                         </item>
@@ -138,66 +194,9 @@
 
 
                         <item>
-                        <title>[COLOR white][B] 9.1 - ADN 40 [/B][/COLOR][COLOR white] SD[/COLOR]  </title>
-<thumbnail>https://lh3.googleusercontent.com/GToMwYPgp71X-kkdyydnlHr9IVP1ls4lNC8lTPiNU6mzFvd_U3S7Bp7zEKdJH4PQ7rY</thumbnail>
-                        <link>https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 11 - Canal 11 (México) [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Image_of_Canal_11.png/250px-Image_of_Canal_11.png</thumbnail>
-                        <link>https://s5.mexside.net:1936/stream/stream/playlist.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 12 - Mexiquense Televisión[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8f/Logo_Radio_y_televisi%C3%B3n_mexiquense_2023.jpg</thumbnail>
-                        <link>https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 13 - TV UNAM[/B][/COLOR][COLOR white] SD[/COLOR] </title>
-                        <fanart></fanart>
-                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_tv-unam-nuevo_m.png</thumbnail>
-                        <link>https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 14 - Canal Catorce [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/120px-Logo_Canal_14_M%C3%A9xico.svg.png</thumbnail>
-                        <link>https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
                         <title>[COLOR white][B] 15 - N+ Noticias [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjg7FhoLCAk-jQuRmevVIDLKz4ckP32G9fg&amp;s</thumbnail>
                         <link>https://dai.google.com/linear/hls/event/-upN13W-TT6fUrHnL3XddQ/master.m3u8?video_variant=960x540</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 16 - Milenio [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-                        <fanart></fanart>
-                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png</thumbnail>
-                        <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403</link>
-                        <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278352.m3u8</link>
                         </item>
 
 
