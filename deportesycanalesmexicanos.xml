@@ -241,6 +241,12 @@
 
 	
 						<item>
+                        <title>[COLOR green][B] 5.0.0 - Win Sports+ [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3LOB6tRwTUgEAoVz95GHOgvln8JybYl1tFQ70inlcPCpuf3wg</thumbnail>                        
+                        <link>http://138.121.15.230:9002/WIN-SPORT/index.m3u8</link>
+                        </item>
+
+                        <item>
                         <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>                        
                         <link>http://45.5.119.43:4000/play/a05q/index.m3u8|https://streaming.alwaysdata.net/tudn.php</link>
