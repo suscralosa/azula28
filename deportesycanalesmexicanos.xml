@@ -31,9 +31,27 @@
 
 
                         <item>
+                        <title>[COLOR white][B] 7.4 - AZTECA 7[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+<thumbnail>https://files.paredro.com/uploads/2016/12/antes.jpeg</thumbnail>
+                        <link>http://148.230.149.45:1021/play/a072/index.m3u8|http://45.5.119.43:4000/play/a026/index.m3u8|http://148.230.149.45:1021/play/a06j/index.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
                         <title>[COLOR white][B] 5.3 - Imagen Televisión [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/250px-Logo_Imagen_Televisi%C3%B3n_2016.png</thumbnail>
                         <link>https://igd-it-runtime.otteravision.com/igd/it/it.m3u8</link>
+                        </item>
+
+
+
+
+                        <item>
+                        <title>[COLOR white][B] 9.0 - Canal 9 de México (XEQ-TDT) [/B][/COLOR][COLOR white] HD[/COLOR]  </title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/55/Canal_Nu9ve.jpg</thumbnail>
+                        <link>https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8</link>
                         </item>
 
 
@@ -111,28 +129,9 @@
 
 
                         <item>
-                        <title>[COLOR white][B] 7.4 - AZTECA 7[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-<thumbnail>https://files.paredro.com/uploads/2016/12/antes.jpeg</thumbnail>
-                        <link>http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8</link>
-                        <link>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
                         <title>[COLOR white][B] 8 - 8NTV - La Televisión de Nayarit [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
 <thumbnail>https://www.ntv.com.mx/8ntv/wp-content/uploads/2023/06/8NTV.png</thumbnail>
                         <link>https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8</link>
-                        </item>
-
-
-
-
-                        <item>
-                        <title>[COLOR white][B] 9.0 - Canal 9 de México (XEQ-TDT) [/B][/COLOR][COLOR white] HD[/COLOR]  </title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/55/Canal_Nu9ve.jpg</thumbnail>
-                        <link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278360.m3u8</link>
                         </item>
 
 
