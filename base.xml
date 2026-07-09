@@ -13,7 +13,7 @@
         <title>[COLOR white][B] 3.1 - CANAL SONYY [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png</thumbnail>
         link>https://fl2.moveonjoy.com/Sony_Movie_Channel/index.m3u8</link>
-        <link>http://181.119.86.68:8000/play/c023/index.m3u8|http://45.5.119.43:4000/play/a0hp/index.m3u8|http://45.181.122.46:8090/play/a00e</link>
+        <link>http://45.167.1.138:8000/play/a03r|http://181.119.86.68:8000/play/c023/index.m3u8|http://45.5.119.43:4000/play/a0hp/index.m3u8|http://45.181.122.46:8090/play/a00e</link>
     </item>
 
     <item>
@@ -31,7 +31,7 @@
     <item>
         <title>[COLOR white][B] 3.2 - HISTORY CHANNEL [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXicq7ie_6pk9OUUoxvLIpElTO8mouwZYtfVMDH6DgCAlgeBh6rEqB_jGAt7mGvnB_ofWZVDww8fmLlRjWhwEIBUMV7zWlWazo4KkG9jct6yhgqnFM-PrQIcjQzD_0Hs2f_eGw5hVVXSBHQv720TiLs3Wp3m9Yjh7js4hMddnXB1WCzUXbg22vQgff97k/s530/asdsadWarner2018LAwww22.png</thumbnail>
-        <link>http://45.181.122.46:8090/play/a00c|http://181.205.130.194:4000/play/a06e|http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8|http://200.115.96.66:4000/play/a00y/index.m3u8|http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a01n|http://45.181.122.46:8090/play/a00c|http://181.205.130.194:4000/play/a06e|http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8|http://200.115.96.66:4000/play/a00y/index.m3u8|http://45.5.119.43:4000/play/a0gk/index.m3u8</link>
     </item>
 
     <item>
@@ -44,6 +44,12 @@
         <title>[COLOR white][B] 3.3 - Love The Planet[/B][/COLOR]</title>
         <thumbnail>https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png</thumbnail>
         <link>https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8</link>
+    </item>
+
+    <item>
+        <title>[COLOR white][B] 3.3 - Animal Planet[/B][/COLOR]</title>
+        <thumbnail>https://goodlogo.com/images/logos/animal_planet_logo_2942.gif</thumbnail>
+        <link>http://45.167.1.138:8000/play/a05g</link>
     </item>
 
     <item>
@@ -119,8 +125,7 @@
     <item>
         <title>[COLOR white][B] 3.4.6 - Space (México)[/B][/COLOR]AR</title>
         <thumbnail>https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png</thumbnail>
-        link>http://200.125.170.122:8000/play/a05t/index.m3u8</link>
-        <link>http://45.181.122.46:8090/play/a00h</link>
+        <link>http://45.181.122.46:8090/play/a00h|http://45.167.1.138:8000/play/a04t</link>
     </item>
 
     <item>
@@ -140,31 +145,31 @@
     <item>
         <title>[COLOR white][B] 3.5 - HBO [/B][/COLOR]MX</title>
         <thumbnail>https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg</thumbnail>
-        <link>http://45.181.122.46:8090/play/a029|http://200.115.96.66:4000/play/a01z/index.m3u8|http://45.5.119.43:4000/play/a0l2/index.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a029|http://200.115.96.66:4000/play/a01z/index.m3u8|http://45.5.119.43:4000/play/a0l2/index.m3u8|http://45.167.1.138:8000/play/a00h</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.1 - HBO Xtreme[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png</thumbnail>
-        <link>http://45.181.122.46:8090/play/a018|http://45.5.119.43:4000/play/a0l6/index.m3u8|http://190.60.37.118:4000/play/a03z|http://200.115.96.66:4000/play/a02o/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a00l|http://45.181.122.46:8090/play/a018|http://45.5.119.43:4000/play/a0l6/index.m3u8|http://190.60.37.118:4000/play/a03z|http://200.115.96.66:4000/play/a02o/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.2 - HBO +[/B][/COLOR]MX</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-smFvIcw-hIJLoEQqV_g-FZIJBMxd9nWYAoQ86wE2hE5XKR-J9nrPkM5BDRwt7Cc6-bYNvVdVZ5FhBjrPA3Cd5wa_RnCtF6ILbjYkIbg8qrq3GkcdKEOL3p0a9mRLhpnb1vEsm6eNZHjwmQ6lj23XsWSbdmShWWXtKwEzgnKwOkj08dBbtgLcIs5nAQ/s424/hbo+.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a02n/index.m3u8|http://45.5.119.43:4000/play/a0l4/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a00j|http://200.115.96.66:4000/play/a02n/index.m3u8|http://45.5.119.43:4000/play/a0l4/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.3 - HBO 2[/B][/COLOR]MX</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png</thumbnail>
-        <link>http://45.181.122.46:8090/play/a02e|http://45.5.117.57:8999/play/a05r/index.m3u8|http://45.5.119.43:4000/play/a00c/index.m3u|http://200.115.96.66:4000/play/a02p/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8</link>
+        <link>http://45.181.122.46:8090/play/a02e|http://45.5.117.57:8999/play/a05r/index.m3u8|http://45.5.119.43:4000/play/a00c/index.m3u|http://200.115.96.66:4000/play/a02p/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8|http://45.167.1.138:8000/play/a00i</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.5.4 - HBO Family[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a02m/index.m3u8|http://45.5.119.43:4000/play/a0l5/index.m3u8|http://45.181.122.46:8090/play/a017|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8|http://181.205.130.194:4000/play/a0dr</link>
+        <link>http://45.167.1.138:8000/play/a00k|http://200.115.96.66:4000/play/a02m/index.m3u8|http://45.5.119.43:4000/play/a0l5/index.m3u8|http://45.181.122.46:8090/play/a017|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8|http://181.205.130.194:4000/play/a0dr</link>
     </item>
 
 	
@@ -198,10 +203,7 @@
     <item>
         <title>[COLOR white][B] 3.6.1 - AXN [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/co_axn_m.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278386.m3u8</link>
-        link>http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0iy/index.m3u8</link>
-        link>https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.ts.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a04s|http://45.5.119.43:4000/play/a0iy/index.m3u8</link>
     </item>
 
     <item>
@@ -238,19 +240,19 @@
     <item>
         <title>[COLOR white][B] 3.8 - CINECANAL [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png</thumbnail>
-        <link>http://45.181.122.46:8090/play/a026|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8|http://45.5.119.43:4000/play/a0hq/index.m3u8|http://200.115.96.66:4000/play/a0e2/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a03s|http://45.181.122.46:8090/play/a026|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8|http://45.5.119.43:4000/play/a0hq/index.m3u8|http://200.115.96.66:4000/play/a0e2/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.7 - Star Channell[/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_fox_m.png</thumbnail>
-        <link>http://200.115.96.66:4000/play/a0hf/index.m3u8|http://45.5.119.43:4000/play/a0hn/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a03p|http://200.115.96.66:4000/play/a0hf/index.m3u8|http://45.5.119.43:4000/play/a0hn/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9 - Studio Universall [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
-        <link>http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://8.243.126.131:8000/play/a0gw/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a05f|http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://8.243.126.131:8000/play/a0gw/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
     </item>
 
     <item>
@@ -324,7 +326,7 @@
     <item>
         <title>[COLOR white][B] 3.14.2 - Warner Channel [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEcUG_kOI7s6NpH62m8dbW7uo0li0nuZ8eFLVYjVMvbA8BgWEFv2DHI5OVoMn8UPAwLWta9Q0A3rE-5gPiw7ISiKLxvhBOf4Vg80J8Oep9AP2Etry224yPKkeM4MEVOEry3nso0Fv4PpyXqOhlDl5AQTxP35aNDd3ty2_yJrUIsQ24HhyoAKZsCu42tE/s512/250px-Warner2018LA.png</thumbnail>
-		<link>http://200.115.96.66:4000/play/a00u/index.m3u8|http://45.5.119.43:4000/play/a0ho/index.m3u8|http://181.205.130.194:4000/play/a07f</link>
+		<link>http://45.167.1.138:8000/play/a03q|http://200.115.96.66:4000/play/a00u/index.m3u8|http://45.5.119.43:4000/play/a0ho/index.m3u8|http://181.205.130.194:4000/play/a07f</link>
     </item>
 	
     <item>
@@ -521,7 +523,7 @@
     <item>
         <title>[COLOR FF00BFFF][B] 3.26.2 - Cartoon Network [/B][/COLOR]</title>
         <thumbnail>https://images.seeklogo.com/logo-png/2/1/cartoon-network-logo-png_seeklogo-26677.png</thumbnail>
-        <link>http://181.205.130.194:4000/play/a06m</link>
+        <link>http://181.205.130.194:4000/play/a06m|http://45.167.1.138:8000/play/a00g</link>
     </item>
 
     <item>
@@ -592,7 +594,7 @@
     <item>
         <title>[COLOR white][B] 3.34 - Claro Canal[/B][/COLOR]</title>
         <thumbnail>https://play-lh.googleusercontent.com/OELT4_IAPuL868h2Fe2RNIIo1uKxYOEBYwuMT2cK4slSrqYAJdSuuoJUXBu17DgFeA</thumbnail>
-        <link>https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8</link>
+        <link>https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8|http://45.167.1.138:8000/play/a00f</link>
     </item>
 
     <item>
