@@ -92,6 +92,12 @@
     </item>
 
 	    <item>
+        <title>[COLOR white][B] 3.4.3 - E! Entertainment[/B][/COLOR]</title>
+        <thumbnail>https://cdn.mitvstatic.com/channels/mx_entertainment_m.png</thumbnail>
+        <link>http://45.167.1.138:8000/play/a05h</link>
+    </item>
+
+	    <item>
         <title>[COLOR white][B] 3.4.4 - Investigation Discovery[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg</thumbnail>
         <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/28.m3u8|http://200.115.96.66:4000/play/a0cx/index.m3u8</link>
@@ -196,7 +202,7 @@
         <title>[COLOR white][B] 3.6 - A&amp;E [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png</thumbnail>
         link>http://181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8</link>
-        <link>http://138.121.15.230:9002/A&E/index.m3u8|http://45.5.119.43:4000/play/a0gt/index.m3u8|http://181.205.130.194:4000/play/a07n</link>
+        <link>http://45.167.1.138:8000/play/a05j|http://138.121.15.230:9002/A&E/index.m3u8|http://45.5.119.43:4000/play/a0gt/index.m3u8|http://181.205.130.194:4000/play/a07n</link>
     </item>
 
 	
@@ -215,13 +221,19 @@
     <item>
         <title>[COLOR white][B] 3.6.3 - AMC [/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/profile_images/1544010572127211520/IMV4Vz3l_400x400.jpg</thumbnail>
-        <link>http://200.115.96.66:4000/play/a0fz/index.m3u8|http://45.5.119.43:4000/play/a0gu/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a05k|http://200.115.96.66:4000/play/a0fz/index.m3u8</link>
     </item>
 	
     <item>
         <title>[COLOR white][B] 3.6.4 - Europa Europa TV [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8uHaJfZLaoITc4x2vO-HJFk3ugtqtN3uEhKuyhan0EZEVbMLN4B6A2JEvrXBOCGM5c-fHbFFSbQ6BvzNRVXa-Myor38cPUq7QYSCAgoKJYqjc0M_MmUO7K7nGnhBmSwzl5qdHooScWpv3W6BzEn93av6Anc8kO3LRZ9oLEkHu15FcmsZMPWGamR2aR8/s1600/EE.png</thumbnail>
         <link>http://8.243.126.131:8000/play/a0e5/index.m3u8|http://200.115.96.66:4000/play/a01j/index.m3u8</link>
+    </item>
+
+    <item>
+        <title>[COLOR white][B] 3.6.4 - Film & Arts [/B][/COLOR]</title>
+        <thumbnail>-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OVp_XNui3lIVXhW9piRXSo1CmiQT0tgJ06lWtDgo2g&s=10</thumbnail>
+        <link>http://45.167.1.138:8000/play/a05i</link>
     </item>
 
     <item>
