@@ -63,7 +63,7 @@
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png</thumbnail>
         link>http://200.125.170.122:8000/play/a062</link>
         link>http://181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8</link>
-        <link>http://45.5.119.43:4000/play/a0kn/index.m3u8|http://200.115.96.66:4000/play/a0do/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a06h|http://45.5.119.43:4000/play/a0kn/index.m3u8|http://200.115.96.66:4000/play/a0do/index.m3u8</link>
     </item>
 
     <item>
@@ -93,13 +93,14 @@
 	    <item>
         <title>[COLOR white][B] 3.4.4 - Investigation Discovery[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg</thumbnail>
-        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/28.m3u8|http://200.115.96.66:4000/play/a0cx/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a06l|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/28.m3u8</link>	
+        link>http://200.115.96.66:4000/play/a0cx/index.m3u8</link>
     </item>
 	
     <item>
         <title>[COLOR white][B] 3.4.3.1 - Discovery World [/B][/COLOR]</title>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png</thumbnail>
-        <link>http://200.125.170.122:8000/play/a063|http://45.5.119.43:4000/play/a0kp/index.m3u8|http://200.115.96.66:4000/play/a037/index.m3u8</link>
+        <thumbnail>https://cdn.mitvstatic.com/channels/mx_discovery-world-hd_m.png</thumbnail>
+        <link>http://45.167.1.138:8000/play/a06i|http://200.125.170.122:8000/play/a063|http://45.5.119.43:4000/play/a0kp/index.m3u8|http://200.115.96.66:4000/play/a037/index.m3u8</link>
     </item>
 
 	
@@ -148,7 +149,7 @@
     <item>
         <title>[COLOR white][B] 3.4.8 - CINE PREMIUN [/B][/COLOR]</title>
         <thumbnail>https://static.wikia.nocookie.net/rarter/images/9/9a/Cine.jpeg/revision/latest?cb=20240430042200</thumbnail>
-        <link>http://45.167.1.138:8000/play/a06f</link>
+        <link>http://45.167.1.138:8000/play/a06f|http://45.167.1.138:8000/play/a06s</link>
     </item>
 
 	
@@ -280,8 +281,7 @@
     <item>
         <title>[COLOR white][B] 3.9.2 - Universal CINEMA[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&amp;s</thumbnail>
-        link>http://200.125.170.122:8000/play/a067</link>
-        <link>http://45.5.119.43:4000/play/a0kt/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a06m|http://45.5.119.43:4000/play/a0kt/index.m3u8</link>
     </item>
 
     <item>
@@ -399,7 +399,7 @@
         <title>[COLOR white][B] 3.16.1 - Serie TNT [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png</thumbnail>
         link>http://200.125.170.122:8000/play/a061</link>
-        <link>http://45.5.119.43:4000/play/a0km/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a06g|http://45.5.119.43:4000/play/a0km/index.m3u8</link>
     </item>
 
     <item>
@@ -447,8 +447,7 @@
     <item>
         <title>[COLOR white][B] 3.19 - Pasiones[/B][/COLOR] Ecuador</title>
         <thumbnail>https://yt3.googleusercontent.com/czxQxYU7hERMABPcpl6ayjo5NvzNcWjj9bKRdr6UbMZqdbF0QR998JZoO63y_hSHR7eb3B1PGw=s900-c-k-c0x00ffffff-no-rj</thumbnail>
-        link>http://200.125.170.122:8000/play/a064</link>
-        <link>https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a06j</link>
     </item>
 
     <item>
