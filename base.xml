@@ -25,7 +25,7 @@
     <item>
         <title>[COLOR white][B] 3.1.2 - SONY MOVIES [/B][/COLOR]</title>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png</thumbnail>
-        <link>http://8.243.126.131:8000/play/a0e6/index.m3u8|http://45.5.119.43:4000/play/a03s/index.m3u8|http://200.115.96.66:4000/play/a02w/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a05o|http://8.243.126.131:8000/play/a0e6/index.m3u8|http://45.5.119.43:4000/play/a03s/index.m3u8|http://200.115.96.66:4000/play/a02w/index.m3u8</link>
     </item>
 
     <item>
@@ -137,8 +137,7 @@
     <item>
         <title>[COLOR white][B] 3.4.7 - DHE [/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiZa2r7ceDgbfKX96zlufWZmZAUXg-diQUA&s</thumbnail>
-        link>http://200.125.170.122:8000/play/a035</link>
-        <link>http://190.60.37.118:4000/play/a02d</link>
+        <link>http://190.60.37.118:4000/play/a02d|http://45.167.1.138:8000/play/a05p</link>
     </item>
 
     <item>
@@ -227,7 +226,7 @@
     <item>
         <title>[COLOR white][B] 3.6.4 - Europa Europa TV [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT8uHaJfZLaoITc4x2vO-HJFk3ugtqtN3uEhKuyhan0EZEVbMLN4B6A2JEvrXBOCGM5c-fHbFFSbQ6BvzNRVXa-Myor38cPUq7QYSCAgoKJYqjc0M_MmUO7K7nGnhBmSwzl5qdHooScWpv3W6BzEn93av6Anc8kO3LRZ9oLEkHu15FcmsZMPWGamR2aR8/s1600/EE.png</thumbnail>
-        <link>http://8.243.126.131:8000/play/a0e5/index.m3u8|http://200.115.96.66:4000/play/a01j/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a05n|http://8.243.126.131:8000/play/a0e5/index.m3u8|http://200.115.96.66:4000/play/a01j/index.m3u8</link>
     </item>
 
     <item>
@@ -333,8 +332,9 @@
     <item>
         <title>[COLOR white][B] 3.14.1 - F X [/B][/COLOR]</title>
         <thumbnail>http://images.mi.tv/channels/mx_fx_m.png</thumbnail>
-        <link>http://138.121.15.230:9002/FX/mono.m3u8|http://45.173.75.4:2061/play/a01x|http://200.115.96.66:4000/play/a0he/index.m3u8|http://45.5.119.43:4000/play/a0gw/index.m3u8|http://45.181.122.46:8090/play/a01l</link>
+        <link>http://45.167.1.138:8000/play/a05m|http://138.121.15.230:9002/FX/mono.m3u8|http://45.173.75.4:2061/play/a01x|http://200.115.96.66:4000/play/a0he/index.m3u8|http://45.5.119.43:4000/play/a0gw/index.m3u8|http://45.181.122.46:8090/play/a01l</link>
     </item>
+	
     <item>
         <title>[COLOR white][B] 3.14.2 - Warner Channel [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEcUG_kOI7s6NpH62m8dbW7uo0li0nuZ8eFLVYjVMvbA8BgWEFv2DHI5OVoMn8UPAwLWta9Q0A3rE-5gPiw7ISiKLxvhBOf4Vg80J8Oep9AP2Etry224yPKkeM4MEVOEry3nso0Fv4PpyXqOhlDl5AQTxP35aNDd3ty2_yJrUIsQ24HhyoAKZsCu42tE/s512/250px-Warner2018LA.png</thumbnail>
@@ -1024,7 +1024,7 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
                         <item>
                         <title>[COLOR white][B] 5.0.1.8 - Telemundo [/B][/COLOR][COLOR green] HQ[/COLOR] USA/Florida </title>
 <thumbnail>https://cdn.mitvstatic.com/channels/mx_telemundo_m.png</thumbnail>
-                        <link>https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8</link>
+                        <link>http://45.167.1.138:8000/play/a05l</link>
                         </item>
 
 
