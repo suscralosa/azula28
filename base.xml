@@ -48,7 +48,7 @@
 
     <item>
         <title>[COLOR white][B] 3.3 - Animal Planet[/B][/COLOR]</title>
-        <thumbnail>https://goodlogo.com/images/logos/animal_planet_logo_2942.gif</thumbnail>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwog5PTH_tv0K-Y92WEzTnitcGYSykQi6j3asq2psmchE_ShLt9pgpK6CZkFapOxpraCuRNUNgXYm1buDz_s1ri485gLGFStBDExwQCRbhj3fUlJbqbLGUg2kPmmNYV2NN0fb3K4NPfBRDUuSUSXGGSqDOQKpusqvfjh9MQvKMT_OGJ0YmGytOlP2bE-M/s530/animalplanet.png</thumbnail>
         <link>http://45.167.1.138:8000/play/a05g</link>
     </item>
 
@@ -92,12 +92,6 @@
     </item>
 
 	    <item>
-        <title>[COLOR white][B] 3.4.3 - E! Entertainment[/B][/COLOR]</title>
-        <thumbnail>https://cdn.mitvstatic.com/channels/mx_entertainment_m.png</thumbnail>
-        <link>http://45.167.1.138:8000/play/a05h</link>
-    </item>
-
-	    <item>
         <title>[COLOR white][B] 3.4.4 - Investigation Discovery[/B][/COLOR]</title>
         <thumbnail>https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg</thumbnail>
         <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/28.m3u8|http://200.115.96.66:4000/play/a0cx/index.m3u8</link>
@@ -129,6 +123,18 @@
     </item>
 
     <item>
+        <title>[COLOR white][B] 3.4.3 - Star Tve[/B][/COLOR]</title>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg42MVw570SF6HZMzUUkMX5GbU0saq6nf7c8X9D7vx1ELqESUIUfek6exgTfVFzsGkARIKNrr-t1SVc07I551bIlMoAxdI_wZUVUwrb3R0wMPJGeVlCmYt48hQ2CU77tgsN24ddLxT07AuUm-nxRqc_ZIicAhAw4QEKZZ8cBrtHBXAsG3x_mZ2Q4-oYvHY/s530/starttvvv.png</thumbnail>
+        <link>http://45.167.1.138:8000/play/a05r</link>
+    </item>
+
+	    <item>
+        <title>[COLOR white][B] 3.4.3 - E! Entertainment[/B][/COLOR]</title>
+        <thumbnail>https://cdn.mitvstatic.com/channels/mx_entertainment_m.png</thumbnail>
+        <link>http://45.167.1.138:8000/play/a05h</link>
+    </item>
+
+	    <item>
         <title>[COLOR white][B] 3.4.6 - Space (México)[/B][/COLOR]AR</title>
         <thumbnail>https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png</thumbnail>
         <link>http://45.181.122.46:8090/play/a00h|http://45.167.1.138:8000/play/a04t</link>
