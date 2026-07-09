@@ -268,15 +268,13 @@
                         <item>
                         <title>[COLOR green][B] 5.0.3 - ESPN 2 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://cdn.mitvstatic.com/channels/mx_espn-2_m.png</thumbnail>
-                        <link>http://45.5.119.43:4000/play/a053/index.m3u8</link>
-                        <link>http://200.115.96.66:4000/play/a0ds/index.m3u8</link>
+                        <link>http://45.5.119.43:4000/play/a053/index.m3u8|http://45.167.1.138:8000/play/a06b|http://200.115.96.66:4000/play/a0ds/index.m3u8</link>
                         </item>
 
                         <item>
                         <title>[COLOR green][B] 5.0.5 - ESPN 3 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://cdn.mitvstatic.com/channels/mx_espn-3_m.png</thumbnail>
-                        <link>http://45.5.119.43:4000/play/a054/index.m3u8</link>
-                        <link>http://200.115.96.66:4000/play/a0ih/index.m3u8</link>
+                        <link>http://45.167.1.138:8000/play/a06c|http://45.5.119.43:4000/play/a054/index.m3u8|http://200.115.96.66:4000/play/a0ih/index.m3u8</link>
                         </item>
 
                         <item>
@@ -296,8 +294,7 @@
                         <item>
                         <title>[COLOR green][B] 5.0.8 - ESPN 6 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png</thumbnail>
-                        <link>http://45.5.119.43:4000/play/a0kj/index.m3u8</link>
-                        <link>http://200.115.96.66:4000/play/a01u/index.m3u8</link>
+                        <link>http://45.5.119.43:4000/play/a0kj/index.m3u8|http://45.167.1.138:8000/play/a06d|http://200.115.96.66:4000/play/a01u/index.m3u8</link>
                         </item>
 
                         <item>
