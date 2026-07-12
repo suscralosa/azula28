@@ -247,6 +247,12 @@
                         </item>
 
                         <item>
+                        <title>[COLOR green][B] 5.0.0 - DIRECTV DEPORTE [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg</thumbnail>                        
+                        <link>http://8.243.126.131:8000/play/a05a/index.m3u8</link>
+                        </item>
+
+                        <item>
                         <title>[COLOR green][B] 5.0.0 - FOX SPORT PREMIUM [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
                         <link>http://38.194.226.190:8000/play/a003/index.m3u8</link>
