@@ -1047,7 +1047,8 @@ link>https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.ts.m3u8</link>
                         <item>
                         <title>[COLOR white][B] 5.0.1.9 - TELEMUNDO MIAMI [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
 <thumbnail>https://cdn.mitvstatic.com/channels/mx_telemundo_m.png</thumbnail>
-                        <link>http://200.115.96.66:4000/play/a0go/index.m3u8|http://45.5.119.43:4000/play/a05m/index.m3u8</link>
+                        <link>http://200.115.96.66:4000/play/a0go/index.m3u8</link>
+                        <link>http://45.5.119.43:4000/play/a05m/index.m3u8</link>
                         </item>
 
 
