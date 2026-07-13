@@ -261,8 +261,14 @@
                         <item>
                         <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>                        
-                        <link>http://45.5.119.43:4000/play/a05q/index.m3u8|https://streaming.alwaysdata.net/tudn.php</link>
-                        <link>http://200.115.96.66:4000/play/a0dn/index.m3u8|http://200.115.120.1:8000/play/ca039/index.m3u8</link>
+                        <link>http://45.5.119.43:4000/play/a05q/index.m3u8|http://200.115.96.66:4000/play/a0dn/index.m3u8|http://116.121.59.72:9981/stream/channelid/391921688?profile=pass</link>
+                        <link>https://streaming.alwaysdata.net/tudn.php</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.1.3 - TyCSports HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q</thumbnail>
+                        <link>http://38.44.109.41:8003/play/a02l/index.m3u8</link>
                         </item>
 
                         <item>
@@ -319,12 +325,6 @@
                         <title>[COLOR green][B] 5.1.2 - Claro Sports 2 [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs</thumbnail>
                         <link>http://45.5.119.43:4000/play/a0kz/index.m3u8</link>
-                        </item>
-
-                        <item>
-                        <title>[COLOR green][B] 5.1.3 - TyCSports HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-                        <thumbnail>https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q</thumbnail>
-                        <link>http://38.44.109.41:8003/play/a02l/index.m3u8</link>
                         </item>
 
                         <item>
