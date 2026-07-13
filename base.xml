@@ -276,9 +276,15 @@
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.9 - Studio Universall [/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.9 - Studio Universall [/B][/COLOR] HD</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
-        <link>http://38.194.226.190:8000/play/a02o/index.m3u8|http://45.167.1.138:8000/play/a05f|http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://8.243.126.131:8000/play/a0gw/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
+        <link>http://38.194.226.190:8000/play/a02o/index.m3u8|http://45.167.1.138:8000/play/a05f|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8</link>
+    </item>
+
+    <item>
+        <title>[COLOR white][B] 3.9 - Studio Universall [/B][/COLOR] SD</title>
+        <thumbnail>https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png</thumbnail>
+        <link>http://38.97.240.11:8000/play/a0i5/index.m3u8|http://38.97.240.11:8000/play/a0bl/index.m3u8|http://8.243.126.131:8000/play/a0gw/index.m3u8|http://200.115.96.66:4000/play/a038/index.m3u8</link>
     </item>
 
     <item>
