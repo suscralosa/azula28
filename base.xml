@@ -296,12 +296,18 @@
     <item>
         <title>[COLOR white][B] 3.9.2 - Universal CINEMA[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&amp;s</thumbnail>
+			<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>      
+   			<genre>[COLOR white][B] Cine [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y películas premiadas de todos los géneros como toda la Saga Jurásica, John Wick, Exterminio, Sonic 2: La Película, Divergente, Top Gun Maverick, Rápidos y Furisoso y muchas más. [/B][/COLOR]</info>
         <link>http://38.194.226.190:8000/play/a007/index.m3u8|http://45.167.1.138:8000/play/a06m|http://45.5.119.43:4000/play/a0kt/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.9.3 - Universal CRIME[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&amp;s</thumbnail>
+			<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>    
+   			<genre>[COLOR white][B] Crimen [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos hasta asesinos inesperados e improbables, los encontrarás en A Sangre Fría, Licencia para matar, Asesino Bajo Disfraz: John Wayne Gacy, Blood and Money, Sectas Mortales, Enterrado en el jardín, Licencia para matar, ¡y más! [/B][/COLOR]</info>
         <link>http://116.121.59.72:9981/stream/channelid/676509059?profile=pass|http://38.194.226.190:8000/play/a005/index.m3u8|http://200.115.96.66:4000/play/a033/index.m3u8|http://45.5.119.43:4000/play/a0i4/index.m3u8</link>
         <link>http://116.121.59.72:9981/stream/channelid/856605064?profile=pass</link>
     </item>
@@ -309,25 +315,36 @@
     <item>
         <title>[COLOR white][B] 3.9.4 - Universal PREMIER[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&amp;s</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8</link>
+			<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>      
+   			<genre>[COLOR white][B] Premier [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Las series más nuevas y aclamadas, nuevas temporada de tus franquicias preferidas, y linzamientos directamente desde los Estados Unidos como Ted, la serie, Poker Face, From, La Ley y el Orden, The Rookie, Ghosts, La Brea y muchas más. [/B][/COLOR]</info>
         <link>http://116.121.59.72:9981/stream/channelid/1629173177?profile=pass|http://38.194.226.190:8000/play/a008/index.m3u8|http://200.115.96.66:4000/play/a035/index.m3u8|http://45.5.119.43:4000/play/a0i2/index.m3u8</link>
     </item>
 	
     <item>
         <title>[COLOR white][B] 3.9.4 - Universal PREMIER USA[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&amp;s</thumbnail>
+        	<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>      
+   			<genre>[COLOR white][B] Premier [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Las series más nuevas y aclamadas, nuevas temporada de tus franquicias preferidas, y linzamientos directamente desde los Estados Unidos como Ted, la serie, Poker Face, From, La Ley y el Orden, The Rookie, Ghosts, La Brea y muchas más. [/B][/COLOR]</info>
         <link>http://116.121.59.72:9981/stream/channelid/1267901313?profile=pass|http://45.5.119.43:4000/play/a0i1/index.m3u8|http://200.115.96.66:4000/play/a034/index.m3u8</link>
     </item>
 	
     <item>
         <title>[COLOR white][B] 3.9.5 - Universall REALLITY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&amp;s</thumbnail>
+			<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>      
+   			<genre>[COLOR white][B] Reallity [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Los momentos más escandalosos y dramaticos de los reality shows ahora están bajo un mismo techo. Podrás disfrutar de la franquicia Below Deck, The Real Housewives of Miami, Paris in Love, Top Chef, la galardonada serie The Traitors y mucho más. [/B][/COLOR]</info>
         <link>http://116.121.59.72:9981/stream/channelid/1135008157?profile=pass|http://38.194.226.190:8000/play/a004/index.m3u8|http://200.115.96.66:4000/play/a036/index.m3u8|http://45.5.119.43:4000/play/a0i3/index.m3u8</link>
     </item>
 
     <item>
-        <title>[COLOR white][B] 3.9.6 - Universal CCOMEDY[/B][/COLOR]</title>
+        <title>[COLOR white][B] 3.9.6 - Universal COMEDY[/B][/COLOR]</title>
         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&amp;s</thumbnail>
+			<fanart>https://pbs.twimg.com/media/FInNZ1iXIAQcw0F.jpg</fanart>      
+   			<genre>[COLOR white][B] Comedia [/B][/COLOR]</genre>
+   			<info>[COLOR white][B] Sumérgente en el mundo de la risa con las franquicias de comedia más icónicas y los comediantes más irreverentes en: Saturday Night Live, Ghosts, Colin From Acounts, The Office, Superstore y St. Denis Medical, entre otros. [/B][/COLOR]</info>
         <link>http://38.194.226.190:8000/play/a006/index.m3u8|http://45.5.119.43:4000/play/a0i5/index.m3u8|http://200.115.96.66:4000/play/a032/index.m3u8</link>
         <link>http://116.121.59.72:9981/stream/channelid/470723936?profile=pass</link>
     </item>
