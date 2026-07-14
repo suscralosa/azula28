@@ -216,7 +216,8 @@
     <item>
         <title>[COLOR white][B] 3.6.1 - AXN [/B][/COLOR]</title>
         <thumbnail>https://cdn.mitvstatic.com/channels/co_axn_m.png</thumbnail>
-        <link>http://45.167.1.138:8000/play/a04s|http://45.5.119.43:4000/play/a0iy/index.m3u8</link>
+        <link>http://45.167.1.138:8000/play/a04s|http://8.243.126.131:8000/play/a0gy/index.m3u8|http://200.115.96.66:4000/play/a0fq/index.m3u8|http://190.105.128.198:5800/play/a05m/index.m3u8|http://190.105.128.198:5800/play/a04m/index.m3u8|http://45.167.1.138:8000/play/a04s|http://116.121.59.72:9981/stream/channelid/1712519558?profile=pass|http://45.5.119.43:4000/play/a0iy/index.m3u8</link>
+        <link>http://138.121.15.230:9002/AXN/index.m3u8|http://45.181.122.46:8090/play/a00g|http://8.243.126.131:8000/play/a05r/index.m3u8</link>
     </item>
 
     <item>
