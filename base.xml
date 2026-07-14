@@ -390,25 +390,25 @@
 
     <item>
         <title>[COLOR white][B] 3.15 - Canal Golden [/B][/COLOR] HD</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png</thumbnail>
+        <thumbnail>https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg</thumbnail>
         <link>http://138.121.15.230:9002/GOLDEN/index.m3u8|http://45.181.122.46:8090/play/a019</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.15 - Canal Golden [/B][/COLOR] SD</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png</thumbnail>
+        <thumbnail>https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg</thumbnail>
         <link>http://190.105.128.198:5800/play/a074/index.m3u8|http://116.121.59.72:9981/stream/channelid/1714669047?profile=pass|http://45.5.119.43:4000/play/a0jv/index.m3u8|http://200.115.96.66:4000/play/a0dp/index.m3u8|http://8.243.126.131:8000/play/a0k9/index.m3u8</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.15.1 - Canal Golden Edge [/B][/COLOR]</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png</thumbnail>
-        link>http://104.238.222.251:9000/budtv/budtvline/8Y3ymUpJESps/278482.m3u8</link>
+        <thumbnail>https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png</thumbnail>
+        <link>http://38.19.16.151:8000/play/a0tr</link>
     </item>
 
     <item>
         <title>[COLOR white][B] 3.15.2 - Canal Golden Premier [/B][/COLOR]</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png</thumbnail>
+        <thumbnail>https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png</thumbnail>
         <link>http://8.243.126.131:8000/play/a0fn/index.m3u8|http://190.105.128.198:5800/play/a02l/index.m3u8|http://201.190.41.246:8822/play/a004/index.m3u8|http://45.190.184.79:5800/play/a00s/index.m3u8|http://200.125.170.122:8000/play/a00l|http://200.115.96.66:4000/play/a01r/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8</link>
     </item>
 
