@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
+						<item>
+                        <title>[COLOR green][B] 5.0.0 - Win Sports+ [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3LOB6tRwTUgEAoVz95GHOgvln8JybYl1tFQ70inlcPCpuf3wg</thumbnail>                        
+                        <link>http://138.121.15.230:9002/WIN-SPORT/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - DIRECTV DEPORTE [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg</thumbnail>                        
+                        <link>http://8.243.126.131:8000/play/a05a/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT PREMIUM [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>http://38.194.226.190:8000/play/a003/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>                        
+                        <link>http://45.5.119.43:4000/play/a05q/index.m3u8|http://200.115.96.66:4000/play/a0dn/index.m3u8|http://116.121.59.72:9981/stream/channelid/391921688?profile=pass</link>
+                        <link>https://streaming.alwaysdata.net/tudn.php</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.1.3 - TyCSports HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q</thumbnail>
+                        <link>http://38.44.109.41:8003/play/a02l/index.m3u8</link>
+                        <link>http://148.230.149.45:1021/play/a08e/index.m3u8|http://38.97.240.11:8000/play/a03k/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.2 - ESPN HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg</thumbnail>
+                        <link>http://45.167.1.138:8000/play/a06a|http://45.5.119.43:4000/play/a052/index.m3u8|http://200.115.96.66:4000/play/a0dr/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.4 - Red Bull TV [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://m.media-amazon.com/images/I/41hkhdw+XvL.png</thumbnail>
+                        <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.3 - ESPN 2 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_espn-2_m.png</thumbnail>
+                        <link>http://45.5.119.43:4000/play/a053/index.m3u8|http://45.167.1.138:8000/play/a06b|http://200.115.96.66:4000/play/a0ds/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.5 - ESPN 3 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://cdn.mitvstatic.com/channels/mx_espn-3_m.png</thumbnail>
+                        <link>http://45.167.1.138:8000/play/a06c|http://45.5.119.43:4000/play/a054/index.m3u8|http://200.115.96.66:4000/play/a0ih/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.6 - ESPN 4 [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://sumarium.info/wp-content/uploads/2021/11/ESPN-4.jpg</thumbnail>
+                        <link>http://200.115.96.66:4000/play/a0h0/index.m3u8</link>
+                        link>http://181.114.57.246:4000/play/7mZEEEBQpQGypd9c/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.7 - ESPN 5 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png</thumbnail>
+                        <link>http://45.5.119.43:4000/play/a0ix/index.m3u8</link>
+                        <link>http://200.115.96.66:4000/play/a01t/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.8 - ESPN 6 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png</thumbnail>
+                        <link>http://45.5.119.43:4000/play/a0kj/index.m3u8|http://45.167.1.138:8000/play/a06d|http://200.115.96.66:4000/play/a01u/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.1.1 - Claro Sports [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs</thumbnail>
+                        <link>http://45.167.1.138:8000/play/a00d|http://181.205.130.194:4000/play/a06o</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.1.2 - Claro Sports 2 [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs</thumbnail>
+                        <link>http://45.5.119.43:4000/play/a0kz/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.1.4 - Tigo Sports HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg</thumbnail>
+                        <link>http://116.121.59.72:9981/stream/channelid/1576891481?profile=pass|http://45.5.119.43:4000/play/a02v/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR green][B] 5.1.5 - Golf Channel HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD3Pj1LsB9XchOeiL3c3hrTO9rKbZq7zkSWqdmvKN1d_5oaSGiH87Lk0LoF9rjgoP2NnMBFeE9HzkzlD01A3apk73EW3-RJJssVfSooLaqn3xdtkZi0Ixk9YUDgtfOBR0CVW3L-US5diAyNuzqKtH8wVAblkCgkO8eCe-sPZi9cYoZSn5ujYdLQRsC4Io/s530/golfchannel2.png</thumbnail>
+                        <link>http://45.167.1.138:8000/play/a05s|http://45.5.119.43:4000/play/a0h1/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR green][B] 5.1.6 - Tennis Channel HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://newyorktennismagazine.com/wp-content/uploads/2017/09/Tennis_Channel_Logo_10.jpg</thumbnail>
+                        <link>http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8</link>
+                        </item>
+
+
+
+</items>
