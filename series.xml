@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<maxHilos>6</maxHilos> 
+
 
 						<item>
-                        <title>Death Note</title>                     
+                        <title>Death Note</title>              
+                        <Temporada>1</Temporada>     
+                        <maxEpisodios>30</maxEpisodios>                  
                         <link>https://archive.org/download/librodelamuerte/librodelamuerte.zip</link>
                         </item>
 
                         <item>
-                        <title>Futurama</title>               
+                        <title>Futurama</title>        
+                        <Temporada>1</Temporada>     
+                        <maxEpisodios>9</maxEpisodios>     
                         <link>https://archive.org/download/futuramaT1/futuramaT1.zip</link>
                         </item>
 
                         <item>
-                        <title>Death Note</title>               
+                        <title>Death Note</title>      
+                        <Temporada>1</Temporada>     
+                        <maxEpisodios>30</maxEpisodios>                   
                         <link>https://archive.org/download/futurama-t-11/FuturamaT12.zip</link>
                         </item>
 
                         <item>
-                        <title>Rick and Morty</title>               
-                        <link>https://archive.org/download/ricksito931/rikmort.zip</link>
+                        <title>Rick and Morty</title>       
+                        <Temporada>2</Temporada>     
+                        <maxEpisodios>10</maxEpisodios>                  
+                        <link>https://archive.org/download/ricksitoT202/rikisitomortisiT2.zip</link>
                         </item>
 
 
