@@ -13,12 +13,14 @@
 	
                         <item>
                         <title>Rick and Morty</title>                       
-                        <link1>https://archive.org/download/ricksitoT202/rikimort12.zip</link1>
+                        <link1>https://archive.org/download/ricksitoT202/rikimorton12.zip</link1>
 						<enlaces1>S01E01-S01E02</enlaces1> 		                
-                        <link2>https://archive.org/download/ricksitoT202/rikimort34.zip</link2>
-						<enlaces2>S01E03-S01E05</enlaces2> 		        
+                        <link2>https://archive.org/download/ricksitoT202/rikimorton34.zip</link2>
+						<enlaces2>S01E03-S01E04</enlaces2> 	                
+                        <link2>https://archive.org/download/ricksitoT202/rikimorton56.zip</link2>
+						<enlaces3>S01E05-S01E06</enlaces3> 			        
                         <link3>https://archive.org/download/ricksitoT202/rikisitomortisiT2.zip</link3>
-						<enlaces3>S02E01-S02E10</enlaces3> 					
+						<enlaces4>S02E01-S02E10</enlaces4> 					
                         </item>
 
 
