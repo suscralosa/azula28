@@ -7,7 +7,7 @@
 						<item>
                         <title>Futurama</title>      
                         <link1>https://archive.org/download/futuramaT1/futuramaT1.zip</link1>							
-						<enlaces1>S01E01-S01E02-S01E03-S01E04-S01E05</enlaces1> 
+						<enlaces1>S01E01-S01E09</enlaces1> 
                         </item>
 
 	
@@ -16,14 +16,9 @@
                         <link1>https://archive.org/download/ricksitoT202/rikimort12.zip</link1>
 						<enlaces1>S01E01-S01E02</enlaces1> 		                
                         <link2>https://archive.org/download/ricksitoT202/rikimort34.zip</link2>
-						<enlaces2>S01E03-S01E05</enlaces2> 							
-                        </item>
-
-	
-                        <item>
-                        <title>Rick and Morty</title>                       
-                        <link1>https://archive.org/download/ricksitoT202/rikisitomortisiT2.zip</link1>
-						<enlaces1>S02E01-S02E02-S02E03-S02E04</enlaces1> 							
+						<enlaces2>S01E03-S01E05</enlaces2> 		        
+                        <link3>https://archive.org/download/ricksitoT202/rikisitomortisiT2.zip</link3>
+						<enlaces3>S02E01-S02E10</enlaces3> 					
                         </item>
 
 
