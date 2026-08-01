@@ -19,8 +19,8 @@
                         <item>
                         <title>[COLOR green][B] 5.0.3 - ESPN 2 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://cdn.mitvstatic.com/channels/mx_espn-2_m.png</thumbnail>
-                        <link>http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8|http://181.119.108.43:9001/play/a0p1/index.m3u8|http://45.167.1.138:8000/play/a06b</link>
-                        <link>http://181.205.130.194:4000/play/a0e5|http://181.205.130.194:4000/play/a0fe</link>
+                        <link>http://201.216.147.90:8729/play/a0p1|http://181.119.108.43:9001/play/a0p1/index.m3u8|http://45.167.1.138:8000/play/a06b</link>
+                        <link>http://45.181.122.46:8090/play/a01v|http://38.97.240.11:8000/play/a0jg/index.m3u8|http://38.97.240.11:8000/play/a0oh/index.m3u8|http://200.39.57.254:8008/play/a0fn/index.m3u8|http://181.205.130.194:4000/play/a0e5|http://181.205.130.194:4000/play/a0fe</link>
                         </item>
 
                         <item>
