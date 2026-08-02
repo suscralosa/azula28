@@ -59,6 +59,12 @@
                         </item>
 
                         <item>
+                        <title>[COLOR green][B] 5.0.8 - ESPN 7 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png</thumbnail>
+                        <link>https://i.pinimg.com/736x/f4/60/fb/f460fbd3bf84dffee99ce46a6ad489c4.jpg</link>
+                        </item>
+
+                        <item>
                         <title>[COLOR green][B] 5.1.1 - Claro Sports [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs</thumbnail>
                         <link>http://45.167.1.138:8000/play/a00d|http://181.205.130.194:4000/play/a06o</link>
@@ -91,13 +97,13 @@
                         <item>
                         <title>[COLOR green][B] 5.0.0 - FOX SPORT [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
-                        <link>http://200.115.96.66:4000/play/a0jx/index.m3u8</link>
+                        <link>http://200.115.96.66:4000/play/a0jx/index.m3u8|http://200.115.96.66:4000/play/a0jx/index.m3u8</link>
                         </item>
 
                         <item>
                         <title>[COLOR green][B] 5.0.0 - FOX SPORT 2[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://posters.hyloft.online/1637951657344.png</thumbnail>                        
-                        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8</link>
+                        <link>http://200.115.96.66:4000/play/a0h1/index.m3u8|https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8</link>
                         </item>
 
                         <item>
@@ -110,6 +116,24 @@
                         <title>[COLOR green][B] 5.0.0 - FOX SPORT PREMIUM [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
                         <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT Elsalvador[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>http://201.216.147.90:8729/play/a02d</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT Guatemala[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>http://201.216.147.90:8729/play/a02c</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT Cosa Rica[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>http://201.216.147.90:8729/play/a02a</link>
                         </item>
 
                         <item>
