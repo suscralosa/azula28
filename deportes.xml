@@ -3,6 +3,14 @@
 
 
 						<item>
+                        <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>    
+						<link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8</link>
+                        <link>http://200.115.96.66:4000/play/a0dn/index.m3u8|http://181.119.108.43:9001/play/a06z/index.m3u8|http://181.119.108.43:9001/play/a0jz/index.m3u8</link>
+						<link>http://201.216.147.90:8729/play/a00u</link>
+ 						</item>
+
+                        <item>
                         <title>[COLOR green][B] 5.0.2 - ESPN HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg</thumbnail>
                         <link>http://45.167.1.138:8000/play/a06a|http://201.216.147.90:8729/play/a0p0|http://181.119.108.43:9001/play/a06o/index.m3u8|http://181.119.108.43:9001/play/a0p0/index.m3u8|http://45.167.1.138:8000/play/a06a</link>
@@ -75,18 +83,34 @@
                         </item>
 
                         <item>
-                        <title>[COLOR green][B] 5.0.0 - FOX SPORT PREMIUM [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORTS [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
-                        <link>http://38.194.226.190:8000/play/a003/index.m3u8</link>
+                        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8</link>
                         </item>
 
                         <item>
-                        <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
-                        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>    
-						<link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8</link>
-                        <link>http://200.115.96.66:4000/play/a0dn/index.m3u8|http://181.119.108.43:9001/play/a06z/index.m3u8|http://181.119.108.43:9001/play/a0jz/index.m3u8</link>
-						<link>http://201.216.147.90:8729/play/a00u</link>
- 						</item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>http://200.115.96.66:4000/play/a0jx/index.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT 2[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://posters.hyloft.online/1637951657344.png</thumbnail>                        
+                        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT 3 USA[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://posters.hyloft.online/1705791961383.png</thumbnail>                        
+                        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT PREMIUM [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
+                        <link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.m3u8</link>
+                        </item>
 
                         <item>
                         <title>[COLOR green][B] 5.1.3 - TyCSports HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
