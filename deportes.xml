@@ -33,14 +33,15 @@
                         <item>
                         <title>[COLOR green][B] 5.0.6 - ESPN 4 [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://sumarium.info/wp-content/uploads/2021/11/ESPN-4.jpg</thumbnail>
-                        <link>http://200.115.96.66:4000/play/a0h0/index.m3u8</link>
+                        <link>http://181.119.108.43:9001/play/a0k8/index.m3u8|http://200.115.96.66:4000/play/a0h0/index.m3u8</link>
+                        <link>http://200.39.57.254:8008/play/a09c/index.m3u8</link>
                         </item>
 
                         <item>
                         <title>[COLOR green][B] 5.0.7 - ESPN 5 HD [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png</thumbnail>
-                        <link>http://45.5.119.43:4000/play/a0ix/index.m3u8</link>
-                        <link>http://200.115.96.66:4000/play/a01t/index.m3u8</link>
+                        <link>http://45.167.1.138:8000/play/a04g|http://38.97.240.11:8000/play/a0gi/index.m3u8|http://201.216.147.90:8729/play/a0ox|http://190.105.128.198:5800/play/a05o/index.m3u8|http://190.105.128.198:5800/play/a04o/index.m3u8|http://181.119.108.43:9001/play/a00z/index.m3u8|http://181.119.108.43:9001/play/a0ox/index.m3u8|http://200.115.96.66:4000/play/a01t/index.m3u8</link>
+                        <link>http://200.39.57.254:8008/play/a0bn/index.m3u8</link>
                         </item>
 
                         <item>
