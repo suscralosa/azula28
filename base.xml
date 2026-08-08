@@ -18,7 +18,7 @@
     <item>
         <title>[COLOR white][B] 3.1.1 - SONY CINEE [/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2o_e_naRFWwJpJC-eMG3G0wdOsDVdnAMR8tkm2aSfRpIGAOwgnyWdiybNGYX4FLSD7f2xyEDw1EEQl8yukS0SCkPD3U0Cy0fPXeP-wNea_BdKTYaH4SW8peuO2y2UisFcUdEgA08MvUQV9Oa9oT3su0GZYaGleygM3MCtx_XlGTAt1_ueW5MFA5_GjjM/s256/raadasddio_csr.png</thumbnail>
-        <link>https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8</link>
+        <link>https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8|http://177.234.249.178:8888/SONY-MOVIES/index.m3u8</link>
     </item>
 
     <item>
@@ -597,7 +597,7 @@
     <item>
         <title>[COLOR FF00BFFF][B] 3.26.3 - Disney Channel JR [/B][/COLOR]</title>
         <thumbnail>https://i.pinimg.com/736x/35/0b/12/350b1213dc4d434a5389bb865734839e.jpg</thumbnail>
-        <link>http://38.194.226.190:8000/play/a02a/index.m3u8|http://200.115.96.66:4000/play/a0ju/index.m3u8</link>
+        <link>http://177.234.249.178:8888/DISNEY-JR/index.m3u8|http://38.194.226.190:8000/play/a02a/index.m3u8|http://200.115.96.66:4000/play/a0ju/index.m3u8</link>
     </item>
 
 
