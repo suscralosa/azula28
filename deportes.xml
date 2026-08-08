@@ -125,9 +125,10 @@
                         </item>
 
                         <item>
-                        <title>[COLOR green][B] 5.0.0 - SporTVV BRasil [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <title>[COLOR green][B] 5.0.0 - SporTVVV BRasil [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png</thumbnail>                        
-                        <link>http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8$$LSDirect$$</link>
+                        <link>http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8$$LSDirect$$</link>                      
+                        <link>http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8</link>
                         </item>
 
                         <item>
