@@ -3,9 +3,14 @@
 
 
 						<item>
-                        <title>[COLOR green][B] 5.0.1 - TUDN: Liga MX, Fútbol [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <title>[COLOR green][B] 5.0.1 - TUDN: USA En vivo[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>    
 						<link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR green][B] 5.0.1 - TUDN [/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/45/b8/f145b886-47b3-4139-0068-81fd7ec883c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</thumbnail>    
                         <link>http://200.115.96.66:4000/play/a0dn/index.m3u8|http://181.119.108.43:9001/play/a06z/index.m3u8|http://181.119.108.43:9001/play/a0jz/index.m3u8</link>
  						</item>
 
@@ -101,7 +106,7 @@
                         </item>
 
                         <item>
-                        <title>[COLOR green][B] 5.0.0 - FOX SPORT Guatemala[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
+                        <title>[COLOR green][B] 5.0.0 - FOX SPORT Mexico[/B][/COLOR][COLOR green] HQ[/COLOR] </title>
                         <thumbnail>https://play-lh.googleusercontent.com/ze-Co_A-C5bZFQdqXni_1V124eK5eMhDO2wzCz3rnRuDrYQnxQAcIS0UGPG2WIr852MEE17PodENuEnYz3hN2Q</thumbnail>                        
                         <link>http://181.119.108.43:9001/play/a0n8/index.m3u8|http://201.216.147.90:8729/play/a02c</link>
                         </item>
