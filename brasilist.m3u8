@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1,foxsports 2
+http://190.83.85.68:80/fox_sports_2/index.m3u8
+#EXTINF:-1,Band Sports
+http://190.83.85.68:80/band_sports/index.m3u8
+#EXTINF:-1,ESPN
+http://190.83.85.68:80/espn/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.83.85.68:80/espn2/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.83.85.68:80/espn3/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.83.85.68:80/espn4/index.m3u8
+#EXTINF:-1,AMC
+http://190.83.85.68:80/amc/index.m3u8
+#EXTINF:-1,AXN
+http://190.83.85.68:80/axn/index.m3u8
+#EXTINF:-1,A&E
+http://190.83.85.68:80/ae/index.m3u8
+#EXTINF:-1,HBO
+http://190.83.85.68:80/hbo/index.m3u8
+#EXTINF:-1,HBO 2
+http://190.83.85.68:80/hbo2/index.m3u8
+#EXTINF:-1,HBO Family
+http://190.83.85.68:80/hbo_family/index.m3u8
+#EXTINF:-1,HBO Mundi
+http://190.83.85.68:80/hbo_mundi/index.m3u8
+#EXTINF:-1,HBO Pop
+http://190.83.85.68:80/hbo_pop/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://190.83.85.68:80/hbo_xtreme/index.m3u8
+#EXTINF:-1,HBO Plus
+http://190.83.85.68:80/hbo_plus/index.m3u8
+#EXTINF:-1,TCM
+http://190.83.85.68:80/tcm/index.m3u8
+#EXTINF:-1,TLC
+http://190.83.85.68:80/tlc/index.m3u8
+#EXTINF:-1,Space
+http://190.83.85.68:80/space/index.m3u8
+#EXTINF:-1,Cinemax
+http://190.83.85.68:80/cinemax/index.m3u8
+#EXTINF:-1,Megapix
+http://190.83.85.68:80/megapix/index.m3u8
+#EXTINF:-1,Studio Universal
+http://190.83.85.68:80/studiouniversal/index.m3u8
+#EXTINF:-1,Curta!
+http://190.83.85.68:80/curta/index.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://190.83.85.68:80/telecine_pipoca/index.m3u8
+#EXTINF:-1,Warner Channel
+http://190.83.85.68:80/warner/index.m3u8
+#EXTINF:-1,TNT
+http://190.83.85.68:80/tnt/index.m3u8
+#EXTINF:-1,TNT Novelas
+http://190.83.85.68:80/tnt_novelas/index.m3u8
+#EXTINF:-1,TNT Series
+http://190.83.85.68:80/tnt_series/index.m3u8
+#EXTINF:-1,Sony Channel
+http://190.83.85.68:80/sony/index.m3u8
+#EXTINF:-1,Gloobo
+http://190.83.85.68:80/globo/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://190.83.85.68:80/discovery_kids/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://190.83.85.68:80/discovery/index.m3u8
+#EXTINF:-1,Discovery ıd
+http://190.83.85.68:80/id/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.85.68:80/discovery_science/index.m3u8
+#EXTINF:-1,Discovery World
+http://190.83.85.68:80/discovery_world/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.83.85.68:80/discovery_turbo/index.m3u8
+#EXTINF:-1,Animal Planet
+http://190.83.85.68:80/animal_planet/index.m3u8
+#EXTINF:-1,History
+http://190.83.85.68:80/history/index.m3u8
+#EXTINF:-1,History 2
+http://190.83.85.68:80/h2/index.m3u8
+#EXTINF:-1,HGTV
+http://190.83.85.68:80/hgtv/index.m3u8
+#EXTINF:-1,Viva
+http://190.83.85.68:80/viva/index.m3u8
+#EXTINF:-1,OFF
+http://190.83.85.68:80/off/index.m3u8
+#EXTINF:-1,GNT
+http://190.83.85.68:80/gnt/index.m3u8
+#EXTINF:-1,Arte 1
+http://190.83.85.68:80/arte_1/index.m3u8
+#EXTINF:-1,TV Cultura
+http://190.83.85.68:80/cultura/index.m3u8
+#EXTINF:-1,Globo News
+http://190.83.85.68:80/globo_news/index.m3u8
+#EXTINF:-1,Band News
+http://190.83.85.68:80/band_news/index.m3u8
+#EXTINF:-1,Record News
+http://190.83.85.68:80/record_news/index.m3u8
+#EXTINF:-1,SBT
+http://190.83.85.68:80/sbt/index.m3u8
+#EXTINF:-1,Band
+http://190.83.85.68:80/band/index.m3u8
+#EXTINF:-1,Record TV
+http://190.83.85.68:80/record/index.m3u8
+#EXTINF:-1,RedeTV!
+http://190.83.85.68:80/rede_tv/index.m3u8
+#EXTINF:-1,TV Brasil
+http://190.83.85.68:80/tv_brasil/index.m3u8
+#EXTINF:-1,TV Gazeta
+http://190.83.85.68:80/gazeta/index.m3u8
