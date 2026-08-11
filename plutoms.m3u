@@ -4,7 +4,7 @@ http://45.167.1.138:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/35/0b/12/350b1213dc4d434a5389bb865734839e.jpg" group-title="Español Cinema", Disney Channel JR
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_nick-jr_m.png" group-title="Español Cinema", NICK JR
-http://38.194.226.190:8000/play/a01u/index.m3u8
+http://181.78.0.107:8006/play/a08h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e" group-title="Español Cinema", Nickelodeon
 http://45.181.122.46:8090/play/a00m
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547834628291.png" group-title="Mexico", CANAL 5 HD
