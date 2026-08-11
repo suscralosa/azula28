@@ -1,118 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1727984938429.png" group-title="Argentina", ESPN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1728331267466.png" group-title="Argentina", FOX SPORTS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705791961383.png" group-title="Argentina", FOX SPORTS 3 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705792707148.png" group-title="Argentina", TYC SPORTS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
-
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696892891230.png" group-title="Chile", CNN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/564.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696893533515.png" group-title="Chile", ESPN 4 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/612.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696907584347.jpg" group-title="Chile", MEGA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/581.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Colombia", CARACOL HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1606870464386.png" group-title="Colombia", CARACOL INT HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/607.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705794856388.png" group-title="Colombia", TRO HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/613.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712664529231.jpeg" group-title="Colombia", TVN GLOBAL
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705155405.png" group-title="Ecuador", CAPRICHO TV
-https://tvdatta.com:3578/live/antenaunolive.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Ecuador", DTVS HD
-https://live.obslivestream.com/sonoondatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705640438.png" group-title="Ecuador", ECUAVISA
-https://eu1.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706033458.png" group-title="Ecuador", EDUCA TV
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706327256.png" group-title="Ecuador", INFINITA
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578010305269.png" group-title="El Savador", Canal 2 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/621.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578011239343.png" group-title="El Savador", Canal 6 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/623.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675125148.jpg" group-title="El Savador", KANAL D DRAMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675011247.png" group-title="El Savador", TVES CANAL 10 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/627.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712674260523.jpeg" group-title="El Savador", TV DAJA
-https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750275847487.png" group-title="España", CANAL MALAGA HD
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750276098426.png" group-title="España", INTERALMERIA TV
-http://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750277536305.png" group-title="España", RIBERA TV
-http://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1753219653150.png" group-title="España", 24 Horas
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12622.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547764643405.png" group-title="España", ANTENA 3 FHD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/68.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1676417114291.png" group-title="España", ANTENA 3 INT HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/615.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705869678329.png" group-title="España", AXN White HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/651.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683573582269.png" group-title="España", BARCA TV HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/100.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705871344570.png" group-title="España", CAZA Y PEZCA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572667276.png" group-title="España", DAZN F1 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572554452.png" group-title="España", LASEXTA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/620.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572003360.png" group-title="España", REAL MADRID TV HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/121.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1749308399581.png" group-title="España", TELECINCO HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12338.m3u8
-
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705886366309.png" group-title="Honduras", CANAL 5 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/644.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759293258.jpeg" group-title="Honduras", TV CENTRO 27.2
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759081576.png" group-title="Honduras", TV CENTRO
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759503335.jpeg" group-title="Honduras", TELEVISION METROPOLIS19.2
-
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106096168.jpg" group-title="Italy", 2 TV HD
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106326310.jpg" group-title="Italy", ALTO ADIGE TV HD
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w916461592.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", ANTENNA TRE NORDEST HD
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106504243.jpg" group-title="Italy", CAFETV24 VENETO OPT 1 HD
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", CANALE 10 HD
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110110197.jpg" group-title="Italy", CANALE 7 HD
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110206530.jpg" group-title="Italy", CANALE 8 HD
-https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110349473.jpg" group-title="Italy", COMPANY TV HD
-https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110431432.png" group-title="Italy", EDEN TV 86 HD
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110589287.jpg" group-title="Italy", ESPERIA TV 18 CALABRIA HD
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110657233.png" group-title="Italy", FOX CRIME HD
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110737158.png" group-title="Italy", LA 7 HD
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110835342.png" group-title="Italy", NAT GEOGRAPHIC HD
-https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110882188.jpeg" group-title="Italy", OTTO FM TV
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111128152.png" group-title="Italy", RAI 3 HD
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111260516.jpg" group-title="Italy", SUPER TV HD
-http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111376166.jpg" group-title="Italy", TELEFRIULI HD
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Español Cinema", A&E HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1758228932250.png" group-title="Español Cinema", AXN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442303405.png" group-title="Español Cinema", AMC HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706286457438.png" group-title="Español Cinema", AZ CINEMA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/361.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544737082380.png" group-title="Español Cinema", CINECANAL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442381131.png" group-title="Español Cinema", CINEMAX HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442516131.png" group-title="Español Cinema", DE PELICULA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443727250.png" group-title="Español Cinema", FX HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739123150.png" group-title="Español Cinema", GOLDEN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316284410.png" group-title="Español Cinema", GOLDEN PREMIER HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739474164.png" group-title="Español Cinema", GOLDEN PLUS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443298334.png" group-title="Español Cinema", HBO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443258149.png" group-title="Español Cinema", HBO 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443281276.png" group-title="Español Cinema", HBO FAMILY HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739879213.png" group-title="Español Cinema", HBO PLUS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316540502.png" group-title="Español Cinema", HBO MUNDI HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085875504.png" group-title="Español Cinema", HBO POP HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085701449.png" group-title="Español Cinema", HBO XTREME HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740389168.png" group-title="Español Cinema", HBO SIGNATURE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443563188.png" group-title="Español Cinema", SONY HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740891459.png" group-title="Español Cinema", SPACE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1585279858413.png" group-title="Español Cinema", STUDIO UNIVERSAL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683480503536.png" group-title="Español Cinema", STARZ ENCORE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/61.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706318497163.jpeg" group-title="Español Cinema", UNIVERSAL CINEMA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320196244.png" group-title="Español Cinema", UNIVERSAL CRIME HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320501545.png" group-title="Español Cinema", UNIVERSAL PREMIERE HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544741162540.png" group-title="Español Cinema", WARNER HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Español Cultura-Documental", ANIMAL PLANET FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479219189.png" group-title="Español Cultura-Documental", DISCOVERY CHANNEL FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/7.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479308317.png" group-title="Español Cultura-Documental", DISCOVERY FAMILIA FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547833827201.png" group-title="Mexico", ADN 40 HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/390.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547833954389.png" group-title="Mexico", AZTECA 7 HD
@@ -153,7 +99,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/667.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547836722310.png" group-title="Mexico", UNICABLE HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/669.m3u8
-
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1606854679570.png" group-title="Español Canales Locales", AMERICA TV HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1681976251154.png" group-title="Español Canales Locales", CARACOL FHD
@@ -224,63 +169,120 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683441193320.png" group-title="Español Canales Locales", WAPA AMERICA HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/167.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Español Cinema", A&E HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1758228932250.png" group-title="Español Cinema", AXN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442303405.png" group-title="Español Cinema", AMC HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706286457438.png" group-title="Español Cinema", AZ CINEMA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/361.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544737082380.png" group-title="Español Cinema", CINECANAL HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442381131.png" group-title="Español Cinema", CINEMAX HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683442516131.png" group-title="Español Cinema", DE PELICULA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443727250.png" group-title="Español Cinema", FX HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739123150.png" group-title="Español Cinema", GOLDEN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316284410.png" group-title="Español Cinema", GOLDEN PREMIER HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739474164.png" group-title="Español Cinema", GOLDEN PLUS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443298334.png" group-title="Español Cinema", HBO HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443258149.png" group-title="Español Cinema", HBO 2 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443281276.png" group-title="Español Cinema", HBO FAMILY HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544739879213.png" group-title="Español Cinema", HBO PLUS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706316540502.png" group-title="Español Cinema", HBO MUNDI HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085875504.png" group-title="Español Cinema", HBO POP HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1618085701449.png" group-title="Español Cinema", HBO XTREME HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740389168.png" group-title="Español Cinema", HBO SIGNATURE HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683443563188.png" group-title="Español Cinema", SONY HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544740891459.png" group-title="Español Cinema", SPACE HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1585279858413.png" group-title="Español Cinema", STUDIO UNIVERSAL HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683480503536.png" group-title="Español Cinema", STARZ ENCORE HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/61.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706318497163.jpeg" group-title="Español Cinema", UNIVERSAL CINEMA HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320196244.png" group-title="Español Cinema", UNIVERSAL CRIME HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706320501545.png" group-title="Español Cinema", UNIVERSAL PREMIERE HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544741162540.png" group-title="Español Cinema", WARNER HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Español Cultura-Documental", ANIMAL PLANET FHD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479219189.png" group-title="Español Cultura-Documental", DISCOVERY CHANNEL FHD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/7.m3u8
-#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479308317.png" group-title="Español Cultura-Documental", DISCOVERY FAMILIA FHD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1727984938429.png" group-title="Argentina", ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1728331267466.png" group-title="Argentina", FOX SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705791961383.png" group-title="Argentina", FOX SPORTS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705792707148.png" group-title="Argentina", TYC SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696892891230.png" group-title="Chile", CNN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/564.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696893533515.png" group-title="Chile", ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/612.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1696907584347.jpg" group-title="Chile", MEGA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/581.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Colombia", CARACOL HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1606870464386.png" group-title="Colombia", CARACOL INT HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/607.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705794856388.png" group-title="Colombia", TRO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/613.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712664529231.jpeg" group-title="Colombia", TVN GLOBAL
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705155405.png" group-title="Ecuador", CAPRICHO TV
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Ecuador", DTVS HD
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712705640438.png" group-title="Ecuador", ECUAVISA
+https://eu1.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706033458.png" group-title="Ecuador", EDUCA TV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712706327256.png" group-title="Ecuador", INFINITA
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578010305269.png" group-title="El Savador", Canal 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/621.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578011239343.png" group-title="El Savador", Canal 6 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/623.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675125148.jpg" group-title="El Savador", KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712675011247.png" group-title="El Savador", TVES CANAL 10 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/627.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712674260523.jpeg" group-title="El Savador", TV DAJA
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750275847487.png" group-title="España", CANAL MALAGA HD
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750276098426.png" group-title="España", INTERALMERIA TV
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1750277536305.png" group-title="España", RIBERA TV
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1753219653150.png" group-title="España", 24 Horas
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12622.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547764643405.png" group-title="España", ANTENA 3 FHD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/68.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1676417114291.png" group-title="España", ANTENA 3 INT HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/615.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705869678329.png" group-title="España", AXN White HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/651.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683573582269.png" group-title="España", BARCA TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/100.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705871344570.png" group-title="España", CAZA Y PEZCA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572667276.png" group-title="España", DAZN F1 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572554452.png" group-title="España", LASEXTA HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/620.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683572003360.png" group-title="España", REAL MADRID TV HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/121.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1749308399581.png" group-title="España", TELECINCO HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12338.m3u8
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1705886366309.png" group-title="Honduras", CANAL 5 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/644.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759293258.jpeg" group-title="Honduras", TV CENTRO 27.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759081576.png" group-title="Honduras", TV CENTRO
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1712759503335.jpeg" group-title="Honduras", TELEVISION METROPOLIS19.2
+
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106096168.jpg" group-title="Italy", 2 TV HD
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106326310.jpg" group-title="Italy", ALTO ADIGE TV HD
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w916461592.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", ANTENNA TRE NORDEST HD
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572106504243.jpg" group-title="Italy", CAFETV24 VENETO OPT 1 HD
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/" group-title="Italy", CANALE 10 HD
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110110197.jpg" group-title="Italy", CANALE 7 HD
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110206530.jpg" group-title="Italy", CANALE 8 HD
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110349473.jpg" group-title="Italy", COMPANY TV HD
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110431432.png" group-title="Italy", EDEN TV 86 HD
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110589287.jpg" group-title="Italy", ESPERIA TV 18 CALABRIA HD
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110657233.png" group-title="Italy", FOX CRIME HD
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110737158.png" group-title="Italy", LA 7 HD
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110835342.png" group-title="Italy", NAT GEOGRAPHIC HD
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572110882188.jpeg" group-title="Italy", OTTO FM TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111128152.png" group-title="Italy", RAI 3 HD
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111260516.jpg" group-title="Italy", SUPER TV HD
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1572111376166.jpg" group-title="Italy", TELEFRIULI HD
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+
+
