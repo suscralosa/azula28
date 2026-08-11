@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Español Cinema", Disney Channel JR
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_nick-jr_m.png" group-title="Español Cinema", NICK JR
+http://38.194.226.190:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/2/1/cartoon-network-logo-png_seeklogo-26677.png" group-title="Español Cinema", Cartoon Network
+http://45.167.1.138:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e" group-title="Español Cinema", Nickelodeon
+http://45.181.122.46:8090/play/a00m
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Español Cinema", A&E HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1758228932250.png" group-title="Español Cinema", AXN HD
