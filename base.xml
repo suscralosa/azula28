@@ -163,8 +163,8 @@
         <title>[COLOR white][B] 3.5.1 - HBO Xtreme[/B][/COLOR]</title>
         <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigcSPxQMFa0SX0Wy2FX4v7BKlj55QK0qNJ1tfw5MJFCioBDVBNnh6iCfhT9V-w5p7POShelSxYeuu-rn6m0-Mg5JMNP6f4KH2i62xt__Y_yCMTan4ix-dBYe63yOnxe9YM2mhwCH215Fjfzm0f-m0LtC_LOW9THVf2QJlTQkwvrcrUR5PsQNv3txUAFAM/s320/hbo-xtreme.png</thumbnail>
         <link>http://116.121.59.72:9981/stream/channelid/543594390?profile=pass|http://45.167.1.138:8000/play/a00l|http://38.194.226.190:8000/play/a02f/index.m3u8|http://45.181.122.46:8090/play/a018|http://45.5.119.43:4000/play/a0l6/index.m3u8|http://190.60.37.118:4000/play/a03z|http://200.115.96.66:4000/play/a02o/index.m3u8</link>
-        <link>http://192.168.1.109:7070/hboxtreme**User-Agent=VLC/3.0.0</link>
-		<link>http://192.168.1.109:7070/hboxtreme</link>
+        <link>http://azula.ddns.net:7070/hboxtreme**User-Agent=VLC/3.0.0</link>
+		<link>http://azula.ddns.net:7070/hboxtreme</link>
     </item>
 
     <item>
