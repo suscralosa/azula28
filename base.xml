@@ -300,7 +300,8 @@
 			<fanart></fanart>      
    			<genre>[COLOR white][B] Cine [/B][/COLOR]</genre>
    			<info>[COLOR white][B] Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y películas premiadas de todos los géneros como toda la Saga Jurásica, John Wick, Exterminio, Sonic 2: La Película, Divergente, Top Gun Maverick, Rápidos y Furisoso y muchas más. [/B][/COLOR]</info>
-        <link>http://45.167.1.138:8000/play/a06m</link>
+        <link>http://45.167.1.138:8000/play/a06m|http://201.216.147.90:8729/play/a0pc</link>
+		<link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8</link>
     </item>
 
     <item>
@@ -309,7 +310,8 @@
 			<fanart></fanart>    
    			<genre>[COLOR white][B] Crimen [/B][/COLOR]</genre>
    			<info>[COLOR white][B] Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos hasta asesinos inesperados e improbables, los encontrarás en A Sangre Fría, Licencia para matar, Asesino Bajo Disfraz: John Wayne Gacy, Blood and Money, Sectas Mortales, Enterrado en el jardín, Licencia para matar, ¡y más! [/B][/COLOR]</info>
-        <link>http://200.115.96.66:4000/play/a033/index.m3u8</link>
+        <link>http://190.105.128.198:5800/play/a061/index.m3u8|http://201.216.147.90:8729/play/a0cs|http://45.167.1.138:8000/play/a066</link>
+		<link>https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8</link>
     </item>
 
     <item>
